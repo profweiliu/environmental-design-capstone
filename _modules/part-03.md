@@ -24,6 +24,9 @@ Nov 19
 : **LAB 7 DUE 11:59 PM**{: .label .label-purple }
 
 Nov 24
+: **Guest Speaker: [Hsuan (Jimmy) Lo](https://www.linkedin.com/in/hsuanlo)**
+: Quantitative UX Researcher, Meta; Doctor in Housing Economics, Harvard University
+: Topic: The Housing Affordability Crisis: Property Tax as a Problem-Solver or Trouble-Maker?
 : **Unsupervised Learning**
 : **LAB 8-B**{: .label .label-golden } K-Means Clustering and Principal Component Analysis
 
