@@ -61,15 +61,10 @@ Nov 03
 : **Optional**{: .readings .readings-optional }[Cartographic Projections: An Interactive Exploration of Various Ways to Flatten a Sphere. Jeffrey Heer.](https://observablehq.com/@vega/vega-lite-cartographic-projections){: .citation} <br>
 
 
-
 Nov 05
-: **Interactive Visualization**
-: **LAB 6-A**{: .label .label-golden } Interative Visualization using Tableau
+: **Dashboard using Tableau**
+: **LAB 6**{: .label .label-golden } Dashboard using Tableau
 : **LAB 5 DUE 11:59 PM**{: .label .label-purple }
-
-Nov 10
-: **Dashboard**
-: **LAB 6-B**{: .label .label-golden } Dashboard using Tableau
 
 
 

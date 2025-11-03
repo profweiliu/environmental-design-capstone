@@ -4,7 +4,7 @@ title: Module 3 - Regression
 <h3 style="text-align: left; font-weight: bold;">III - Data Modeling</h3> 
 
 Nov 10
-: **Statistical Review for Data Analysis**
+: **Statistics Review for Data Analysis**
 
 
 Nov 12
