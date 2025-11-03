@@ -57,6 +57,7 @@ Oct 29
 Nov 03 
 : **Analyze and Visualize Space**
 : **LAB 5-B**{: .label .label-golden } Sptatial Data and Mapping using R
+  : [Page]({{ site.baseurl }}/labs/lab-05) / [Rmd]({{ site.baseurl }}/labs/lab-05.zip) 
 : **Extra credits - data sharing DUE 11:59 PM**{: .label .label-purple }
 : **Optional**{: .readings .readings-optional }[Cartographic Projections: An Interactive Exploration of Various Ways to Flatten a Sphere. Jeffrey Heer.](https://observablehq.com/@vega/vega-lite-cartographic-projections){: .citation} <br>
 

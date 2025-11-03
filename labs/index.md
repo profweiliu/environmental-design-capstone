@@ -31,5 +31,10 @@ description: Lab 1
 
 > Focuses on data visualization design principles and implementation using ggplot2, exploring aesthetic mappings, scales, and themes for expressive, effective, and ethical graphics.
 
+#### **LAB 5 – Tableau and Spatial Data in R**
+
+[Page]({{ site.baseurl }}/labs/lab-05) / [Rmd]({{ site.baseurl }}/labs/lab-05.zip) 
+
+> > Combines Tableau and R for spatial data visualization. Introduces interactive dashboard design in Tableau and geospatial analysis in R using `sf`, focusing on coordinate systems, spatial joins, and map-based analytics.
 
 {% include course_footer.html %}
