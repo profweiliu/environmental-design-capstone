@@ -63,7 +63,7 @@ Nov 03
 
 Nov 05
 : **Dashboard using Tableau**
-: **LAB 6**{: .label .label-golden } Dashboard using Tableau
+: **LAB 6-A**{: .label .label-golden } Dashboard using Tableau
 : **LAB 5 DUE 11:59 PM**{: .label .label-purple }
 
 
