@@ -6,8 +6,6 @@ title: Module 2 - Data Visualization
 
 
 
-
-
 Oct 13
 : **Data Visual Design**
   : [Slides]({{ site.baseurl }}/slides/lecture-04.pdf)
