@@ -41,7 +41,8 @@ Oct 22
 : *Instructor leave due to [ACSP Annual Conference 2025](https://www.acsp.org/page/ConfAbout)*
 
 Oct 27
-: **Guest Speaker: [Drew Dolan](https://www.linkedin.com/in/drew-dolan-3a20a12/)**, Principal, Fund Manager, [DXD Capital](https://dxd.capital)
+: **Guest Speaker: [Drew Dolan](https://www.linkedin.com/in/drew-dolan-3a20a12/)**; Principal, Fund Manager, [DXD Capital](https://dxd.capital)
+: Topic: Data-driven Self Storage Real Estate Investment
 
 Oct 29
 : **Introduction to Tableau**
@@ -55,13 +56,13 @@ Oct 29
 **Optional**{: .readings .readings-optional }[Tableau Dashboard Showcase.](https://www.tableau.com/data-insights/dashboard-showcase){: .citation} <br>
 
 
-
-
-
 Nov 03 
 : **Analyze and Visualize Space**
 : **LAB 5-B**{: .label .label-golden } Sptatial Data and Mapping using R
 : **Extra credits - data sharing DUE 11:59 PM**{: .label .label-purple }
+: **Optional**{: .readings .readings-optional }[Cartographic Projections: An Interactive Exploration of Various Ways to Flatten a Sphere. Jeffrey Heer.](https://observablehq.com/@vega/vega-lite-cartographic-projections){: .citation} <br>
+
+
 
 Nov 05
 : **Interactive Visualization**

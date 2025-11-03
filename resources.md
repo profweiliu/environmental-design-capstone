@@ -29,6 +29,7 @@ description: Resources.
     - [Data tidying with tidyr]({{ site.baseurl }}/assets/pdfs/tidyr.pdf)
     - [Data visualization with ggplot2]({{ site.baseurl }}/assets/pdfs/data-visualization.pdf)
     - [Shiny]({{ site.baseurl }}/assets/pdfs/shiny.pdf)
+    - [sf]({{ site.baseurl }}/assets/pdfs/sf.pdf)
 
 
 
