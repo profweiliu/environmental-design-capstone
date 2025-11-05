@@ -25,22 +25,45 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <!-- start of the main lab content -->
 
-In this lab, we are going to use [Tableau](https://www.tableau.com), a business intelligence and analytics platform that allows users to create interactive visualizations and dashboards to understand data. It provides free access to students. **Please try to download** [Tableau
+In this lab, we are going to use [Tableau](https://www.tableau.com), a
+business intelligence and analytics platform that allows users to create
+interactive visualizations and dashboards to understand data. It
+provides free access to students. **Please try to download** [Tableau
 for Students](https://www.tableau.com/academic/students) in advance.
 
-The due day for each lab can be found on the [course wesbite](https://www.yuehaoyu.com/data-analytics-visualization/). The submission should include Rmd, html, and any other files required to rerun the codes. For Tableau, submit your [**Tableau packaged workbook (.tbwx)**](https://help.tableau.com/current/pro/desktop/en-us/save_savework_packagedworkbooks.htm) This will include any excel files that you attach so that when you share
+The due day for each lab can be found on the [course
+wesbite](https://www.yuehaoyu.com/data-analytics-visualization/). The
+submission should include Rmd, html, and any other files required to
+rerun the codes. For Tableau, submit your [**Tableau packaged workbook
+(.tbwx)**](https://help.tableau.com/current/pro/desktop/en-us/save_savework_packagedworkbooks.htm)
+This will include any excel files that you attach so that when you share
 the file anyone with Tableau can open it!
 
-From Lab 4, the use of any generative AI tool (ChatGPT, Copilot, etc.) is **allowed**. But, I still encourage you to write codes by yourself and use AI tools as a way to debug and explore new knowledge. More information about [Academic Integrity](https://www.yuehaoyu.com/data-analytics-visualization/syllabus/#academic-integrity)
-and [the Use of AI](https://www.yuehaoyu.com/data-analytics-visualization/syllabus/#use-of-ai).
+From Lab 4, the use of any generative AI tool (ChatGPT, Copilot, etc.)
+is **allowed**. But, I still encourage you to write codes by yourself
+and use AI tools as a way to debug and explore new knowledge. More
+information about [Academic
+Integrity](https://www.yuehaoyu.com/data-analytics-visualization/syllabus/#academic-integrity)
+and [the Use of
+AI](https://www.yuehaoyu.com/data-analytics-visualization/syllabus/#use-of-ai).
 
 ------------------------------------------------------------------------
 
 ## Lab 05-A: Introduction to Tableau
 
-In this lab, we will use Seattle Airbnb listing data published by [Inside Airbnb](https://insideairbnb.com). Inside Airbnb is a mission driven project that provides data and advocacy about Airbnb's impact on residential communities. They published a report on [Platform Failures: How Short-Term Rental Platforms like Airbnb fail to cooperate with cities and the need for strong regulations to protect housing](https://insideairbnb.com/reports/platform-failures-how-short-term-rental-platforms-like-airbnb-fail-cities-en.pdf) which may be interesting to you.
+In this lab, we will use Seattle Airbnb listing data published by
+[Inside Airbnb](https://insideairbnb.com). Inside Airbnb is a mission
+driven project that provides data and advocacy about Airbnb's impact on
+residential communities. They published a report on [Platform Failures:
+How Short-Term Rental Platforms like Airbnb fail to cooperate with
+cities and the need for strong regulations to protect
+housing](https://insideairbnb.com/reports/platform-failures-how-short-term-rental-platforms-like-airbnb-fail-cities-en.pdf)
+which may be interesting to you.
 
-The data we will use was published on 21 June, 2025 and you can explore the data using their [visualization tool](https://insideairbnb.com/seattle/). Please check the data dictionary below.
+The data we will use was published on 21 June, 2025 and you can explore
+the data using their [visualization
+tool](https://insideairbnb.com/seattle/). Please check the data
+dictionary below.
 
 <details>
 
@@ -146,38 +169,70 @@ cat("
 ![Workspace. Source: Tableau Desktop and Web Authoring
 Help](https://help.tableau.com/current/pro/desktop/en-us/Img/environ_workspace1.png)
 
--   **A.** Workbook name. A workbook contains sheets. A sheet can be a worksheet, a dashboard, or a story. For more information, see [Workbooks and Sheets](https://help.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.htm).
--   **B.** [Cards and shelves](https://help.tableau.com/current/pro/desktop/en-us/buildmanual_shelves.htm) - Drag fields to the cards and shelves in the workspace to add data to your view.
--   **C.** [Toolbar](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm#ToolbarButtons) - Use the toolbar to access commands and analysis and navigation tools.
--   **D.** [View](https://help.tableau.com/current/pro/desktop/en-us/view_parts.htm) - This is the canvas in the workspace where you create a visualization (also referred to as a "viz").
--   **E.** Click this icon to go to the Start page, where you can connect to data. For more information, see [Start Page](https://help.tableau.com/current/pro/desktop/en-us/environment_startpage.htm).
--   **F.** [Side Bar](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm#SideBar) - In a worksheet, the side bar area contains the [Data pane](https://help.tableau.com/current/pro/desktop/en-us/datafields_understanddatawindow.htm) and the [Analytics pane](https://help.tableau.com/current/pro/desktop/en-us/environ_workspace_analytics_pane.htm).
--   **G.** Click this tab to go to the Data Source page and view your data. For more information, see the [Data Source Page](https://help.tableau.com/current/pro/desktop/en-us/environment_datasource_page.htm).
--   **H.** [Status bar](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm#StatusBar) - Displays information about the current view.
--   **I.** Sheet tabs - Tabs represent each sheet in your workbook. This can include worksheets, dashboards, and stories. For more information, see [Workbooks and Sheets](https://help.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.htm).
+-   **A.** Workbook name. A workbook contains sheets. A sheet can be a
+    worksheet, a dashboard, or a story. For more information, see
+    [Workbooks and
+    Sheets](https://help.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.htm).
+-   **B.** [Cards and
+    shelves](https://help.tableau.com/current/pro/desktop/en-us/buildmanual_shelves.htm) -
+    Drag fields to the cards and shelves in the workspace to add data to
+    your view.
+-   **C.**
+    [Toolbar](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm#ToolbarButtons) -
+    Use the toolbar to access commands and analysis and navigation
+    tools.
+-   **D.**
+    [View](https://help.tableau.com/current/pro/desktop/en-us/view_parts.htm) -
+    This is the canvas in the workspace where you create a visualization
+    (also referred to as a "viz").
+-   **E.** Click this icon to go to the Start page, where you can
+    connect to data. For more information, see [Start
+    Page](https://help.tableau.com/current/pro/desktop/en-us/environment_startpage.htm).
+-   **F.** [Side
+    Bar](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm#SideBar) -
+    In a worksheet, the side bar area contains the [Data
+    pane](https://help.tableau.com/current/pro/desktop/en-us/datafields_understanddatawindow.htm)
+    and the [Analytics
+    pane](https://help.tableau.com/current/pro/desktop/en-us/environ_workspace_analytics_pane.htm).
+-   **G.** Click this tab to go to the Data Source page and view your
+    data. For more information, see the [Data Source
+    Page](https://help.tableau.com/current/pro/desktop/en-us/environment_datasource_page.htm).
+-   **H.** [Status
+    bar](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm#StatusBar) -
+    Displays information about the current view.
+-   **I.** Sheet tabs - Tabs represent each sheet in your workbook. This
+    can include worksheets, dashboards, and stories. For more
+    information, see [Workbooks and
+    Sheets](https://help.tableau.com/current/pro/desktop/en-us/environ_workbooksandsheets.htm).
 
 ### Key Steps
 
 #### Connect to Data
 
 -   In the **Connect pane**, click the file type (e.g., *Text File*).
--   In the **Open** dialog box, select your dataset (e.g., listings.csv) and click **Open**.
+-   In the **Open** dialog box, select your dataset (e.g., listings.csv)
+    and click **Open**.
 -   Change the data type in **data source page**.
--   (Optional) Change column labels for readability (this won’t rename your local file).
+-   (Optional) Change column labels for readability (this won’t rename
+    your local file).
 -   Concepts: Dimensions and Measures
-    -   Dimensions contain qualitative values (such as names, dates, or geographical data).
-    -   Measures contain numeric, quantitative values that you can measure.
+    -   Dimensions contain qualitative values (such as names, dates, or
+        geographical data).
+    -   Measures contain numeric, quantitative values that you can
+        measure.
     -   You can re-categorize a dimension as a measure or vice versa.
 
 #### Global Formatting
 
--   Adjust global font, font size, alignment, etc., under **Format** → **Workbook**.
+-   Adjust global font, font size, alignment, etc., under **Format** →
+    **Workbook**.
 
 #### Maps
 
 -   Drag **Latitude** → *Rows*, and **Longitude** → *Columns*.
 -   Customize map background: *Map → Map Layers → Style*.
--   Add Tooltip: drag relevant fields (e.g., Name, Room Type, Price) to **Marks → Tooltip**.
+-   Add Tooltip: drag relevant fields (e.g., Name, Room Type, Price) to
+    **Marks → Tooltip**.
 -   Rename the worksheet to *Map*.
 
 #### Average Price
@@ -191,14 +246,17 @@ Help](https://help.tableau.com/current/pro/desktop/en-us/Img/environ_workspace1.
 #### Number of Room by Type
 
 -   Drag **Room Type** → *Rows*.
--   Drag **Name** → *Columns* → **Count** (right-click → *Measure → Count*).
+-   Drag **Name** → *Columns* → **Count** (right-click → *Measure →
+    Count*).
 -   Hide the **X-axis** and label each bar.
 -   Rename worksheet and add short descriptive text in text box.
 
 #### Licenses
 
--   Create a **Group** for license categories (e.g., *Licensed / Unlicensed / Exempt*).
--   Drag **License Categories** → *Rows* and **Name** → *Columns* → *Count*.
+-   Create a **Group** for license categories (e.g., *Licensed /
+    Unlicensed / Exempt*).
+-   Drag **License Categories** → *Rows* and **Name** → *Columns* →
+    *Count*.
 -   Drag **Room Type** → *Color* in the Marks card.
 -   Customize the **color palette**.
 -   Rename worksheet and add notes.
@@ -215,22 +273,26 @@ Help](https://help.tableau.com/current/pro/desktop/en-us/Img/environ_workspace1.
 -   Click **New Dashboard (+)**.
 -   Set min and max dashboard size.
 -   Drag your worksheets into the layout.
--   Use **Text Box** to add title, description, and data source citation.
+-   Use **Text Box** to add title, description, and data source
+    citation.
 -   Apply **consistent background color** and **font**.
 
 #### Interactivity
 
 -   Right-click filters (e.g., *Neighbourhood Group*) → **Show Filter**.
 -   Change filter type to dropdown or slider as needed.
--   Make filters **affect all worksheets** (*Apply to Worksheets → All Using This Data Source*).
--   Test interactivity — selecting a neighborhood should update all charts.
+-   Make filters **affect all worksheets** (*Apply to Worksheets → All
+    Using This Data Source*).
+-   Test interactivity — selecting a neighborhood should update all
+    charts.
 
 #### Publish
 
 -   Save to Tableau Public
     1.  Click **File → Save to Tableau Public**
     2.  Log in with your Tableau Public account (create one if needed).
-    3.  Wait for the upload to finish — Tableau will open your dashboard in the browser.
+    3.  Wait for the upload to finish — Tableau will open your dashboard
+        in the browser.
 -   Embed to your webpage
     1.  On your Tableau Public page, click **Share** (top right).
     2.  Copy the **Embed Code**.
@@ -242,17 +304,29 @@ Help](https://help.tableau.com/current/pro/desktop/en-us/Img/environ_workspace1.
 
 #### Hierarchy
 
--   Drag **neighbourhood group** and **neighbourhood** to *Rows* — order matters (group first, then neighborhood).
+-   Drag **neighbourhood group** and **neighbourhood** to *Rows* — order
+    matters (group first, then neighborhood).
 -   Drag **Name** to *Columns* → right-click → *Measure → Count*.
 -   Sort descending if needed.
 
 #### Worksheet, Dashboard, Story
 
--   A worksheet contains a single view along with shelves, cards, legends, and the Data and Analytics panes in its sidebar. For details on the worksheet workspace, see [The Tableau Workspace](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm).
--   A dashboard is a collection of views from multiple worksheets. The Dashboard and Layout panes are available in its sidebar. For more details about creating dashboards, see [Dashboards](https://help.tableau.com/current/pro/desktop/en-us/dashboards.htm).
+-   A worksheet contains a single view along with shelves, cards,
+    legends, and the Data and Analytics panes in its sidebar. For
+    details on the worksheet workspace, see [The Tableau
+    Workspace](https://help.tableau.com/current/pro/desktop/en-us/environment_workspace.htm).
+-   A dashboard is a collection of views from multiple worksheets. The
+    Dashboard and Layout panes are available in its sidebar. For more
+    details about creating dashboards, see
+    [Dashboards](https://help.tableau.com/current/pro/desktop/en-us/dashboards.htm).
     -   What is changed in the dashboard will affect the worksheet
--   A story contains a sequence of worksheets or dashboards that work together to convey information. The Story and Layout panes are available in its side bar. For more details about creating stories, see [Stories](https://help.tableau.com/current/pro/desktop/en-us/stories.htm)
-    -   What’s changed in the story will not affect the worksheet or dashboard
+-   A story contains a sequence of worksheets or dashboards that work
+    together to convey information. The Story and Layout panes are
+    available in its side bar. For more details about creating stories,
+    see
+    [Stories](https://help.tableau.com/current/pro/desktop/en-us/stories.htm)
+    -   What’s changed in the story will not affect the worksheet or
+        dashboard
 
 ### 📚 TODO: Tableau
 
@@ -285,7 +359,7 @@ the file anyone with Tableau can open it!
 #### Raw ACS Variables Dictionary
 
 | **Variable**   | **ACS Code** | **Description**                               |
-|----------------|--------------|-----------------------------------------------|
+|----------------|----------------|----------------------------------------|
 | med_income     | B19013_001   | Median household income (past 12 months)      |
 | gini           | B19083_001   | Gini Index of Income Inequality               |
 | med_rent       | B25064_001   | Median gross rent (monthly)                   |
@@ -324,7 +398,15 @@ the file anyone with Tableau can open it!
 > [Chapter 17 and 18, Modern Data Science with R. Baumer et al.
 > 2024.](https://mdsr-book.github.io/mdsr3e/17-geospatialI.html)
 
-In section B, we will use `sf`, a designated package for spatial data that integrates with `tidyverse`. These will have the class `sf`. We will mainly treat geospatial information as an additional attribute for observation (rows). Instead of focusing on one product, we will test some *small* tasks to see how to manipulate spatial data. This is just a quick overview of spatial data processing. If you would like to do more spatial analysis, we'd like to recommend to use [ArcGIS Pro](https://www.arcgis.com/index.html)or [QGIS](https://www.qgis.org). Some GIS course at UW:
+In section B, we will use `sf`, a designated package for spatial data
+that integrates with `tidyverse`. These will have the class `sf`. We
+will mainly treat geospatial information as an additional attribute for
+observation (rows). Instead of focusing on one product, we will test
+some *small* tasks to see how to manipulate spatial data. This is just a
+quick overview of spatial data processing. If you would like to do more
+spatial analysis, we'd like to recommend to use [ArcGIS
+Pro](https://www.arcgis.com/index.html)or [QGIS](https://www.qgis.org).
+Some GIS course at UW:
 
 -   RE 497/597: Real Estate Data Modeling
 -   URBAN 404/504: Introduction to Geographic Information Systems
@@ -338,31 +420,51 @@ library(sf)
 library(tidyverse)
 ```
 
-We will still use Seattle Airbnb (point, in CSV) and King County affordability data (polygon, in GeoJson), and three new:
+We will still use Seattle Airbnb (point, in CSV) and King County
+affordability data (polygon, in GeoJson), and three new:
 
--   [Light Rail Stations from Seattle GeoData Platform](https://data-seattlecitygis.opendata.arcgis.com/datasets/light-rail-stations-1/about) (points, in Geodatabase)
--   [Transit Routes for King County Metro from King County GIS Open Data Platform](https://gis-kingcounty.opendata.arcgis.com/datasets/kingcounty::transit-routes-for-king-county-metro-transitroute-line/about) (lines, in Shapefile)
--   [Urban Centers Villages and Manufacturing Industrial Centers from Seattle GeoData Platform](https://data-seattlecitygis.opendata.arcgis.com/datasets/9267e111804b4cc7b44bc73c673e6bda_0/explore?location=47.620193%2C-122.329550%2C11.88) (polygon, in GeoJson)
+-   [Light Rail Stations from Seattle GeoData
+    Platform](https://data-seattlecitygis.opendata.arcgis.com/datasets/light-rail-stations-1/about)
+    (points, in Geodatabase)
+-   [Transit Routes for King County Metro from King County GIS Open Data
+    Platform](https://gis-kingcounty.opendata.arcgis.com/datasets/kingcounty::transit-routes-for-king-county-metro-transitroute-line/about)
+    (lines, in Shapefile)
+-   [Urban Centers Villages and Manufacturing Industrial Centers from
+    Seattle GeoData
+    Platform](https://data-seattlecitygis.opendata.arcgis.com/datasets/9267e111804b4cc7b44bc73c673e6bda_0/explore?location=47.620193%2C-122.329550%2C11.88)
+    (polygon, in GeoJson)
 
 ### Spatial Data Types
 
-In general, spatial data includes **two** types (we mentioned them in lecture 2):
+In general, spatial data includes **two** types (we mentioned them in
+lecture 2):
 
--   **Vector data** represent discrete features such as points, lines, and polygons.
--   **Raster data** represent continuous surfaces such as elevation, temperature, or satellite imagery. Raster data will not be covered in this class. It is mainly used in remote sensing, oceanography,and atmospheric sciences. In R, `terra` is the most commonly used package for raster data.
+-   **Vector data** represent discrete features such as points, lines,
+    and polygons.
+-   **Raster data** represent continuous surfaces such as elevation,
+    temperature, or satellite imagery. Raster data will not be covered
+    in this class. It is mainly used in remote sensing, oceanography,and
+    atmospheric sciences. In R, `terra` is the most commonly used
+    package for raster data.
 
-![Polygon in Vector and Raster Data. Source: Esri ArcMap Help](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/GUID-E10D333F-6559-4A63-BB8F-BF1FD194EF3A-web.gif)
+![Polygon in Vector and Raster Data. Source: Esri ArcMap
+Help](https://desktop.arcgis.com/en/arcmap/latest/manage-data/raster-and-images/GUID-E10D333F-6559-4A63-BB8F-BF1FD194EF3A-web.gif)
 
 #### Vector - Points
 
-Let's get `light_rail_stations.gdb` data, which is stored in a [ESRI File Geodatabase](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/manage-file-gdb/file-geodatabases.htm). Such geodatabase could have multiple layers (bus line + bus stop +
-service area, for example). We started from check the list of layer using `st_layer()`.
+Let's get `light_rail_stations.gdb` data, which is stored in a [ESRI
+File
+Geodatabase](https://pro.arcgis.com/en/pro-app/latest/help/data/geodatabases/manage-file-gdb/file-geodatabases.htm).
+Such geodatabase could have multiple layers (bus line + bus stop +
+service area, for example). We started from check the list of layer
+using `st_layer()`.
 
 ```{r}
 st_layers("light_rail_stations.gdb")
 ```
 
-Only one layer inside called `Light_Rail_Stations` and we want to read it using `st_read()`:
+Only one layer inside called `Light_Rail_Stations` and we want to read
+it using `st_read()`:
 
 ```{r}
 lrstations <- st_read("light_rail_stations.gdb", layer = "Light_Rail_Stations")
@@ -371,13 +473,17 @@ lrstations <- st_read("light_rail_stations.gdb", layer = "Light_Rail_Stations")
 We saw some meta information will show up:
 
 1.  File locations
-2.  Number of [simple features](https://en.wikipedia.org/wiki/Simple_Features) (rows) and fields (columns)
+2.  Number of [simple
+    features](https://en.wikipedia.org/wiki/Simple_Features) (rows) and
+    fields (columns)
 3.  Geometry type (point, line, and polygon)
 4.  Dimension - 2D in this data;
 5.  Bounding box
 6.  Geographic/Projected CRS (Coordinate Reference System)
 
-Many time, we may only have the latitude and longitude in a CSV file, like the Airbnb dataset. So, we read it as a normal dataframe and convert it to geometry column.
+Many time, we may only have the latitude and longitude in a CSV file,
+like the Airbnb dataset. So, we read it as a normal dataframe and
+convert it to geometry column.
 
 ```{r message=FALSE}
 airbnb <- read_csv("airbnb_sea_listings.csv")
@@ -388,7 +494,8 @@ airbnb <- st_as_sf(
 )
 ```
 
-We can visualize spatial data by using `ggplot2` by add layer called `geom_sf()`:
+We can visualize spatial data by using `ggplot2` by add layer called
+`geom_sf()`:
 
 ```{r}
 ggplot(airbnb) +
@@ -398,7 +505,10 @@ ggplot(airbnb) +
 
 #### Vector - Line
 
-`Shapefile` is a geospatial vector data format developed by [Esri](https://www.esri.com/en-us/home). The annoying point of `Shapefile` is a set of at least 3–7 separate files that must all stay together.
+`Shapefile` is a geospatial vector data format developed by
+[Esri](https://www.esri.com/en-us/home). The annoying point of
+`Shapefile` is a set of at least 3–7 separate files that must all stay
+together.
 
 ```{r}
 kcm_routes <- st_read("kcm_transit_routes/kcm_transit_routes.shp")
@@ -406,46 +516,79 @@ kcm_routes <- st_read("kcm_transit_routes/kcm_transit_routes.shp")
 
 #### Vector - Polygon
 
-[GeoJSON](https://geojson.org) is a text-based format for encoding geographic data structures like points, lines, and polygons, built on the standard JSON format.
+[GeoJSON](https://geojson.org) is a text-based format for encoding
+geographic data structures like points, lines, and polygons, built on
+the standard JSON format.
 
 ```{r}
 king_affordability <- st_read("king_affordability_2022.geojson")
 urban_village <- st_read("urban_center_villages_manufacturing_industrial_centers.geojson")
 ```
 
-We can also use `plot` function to generate plots instead of `ggplot2`. It will produce one map for each attribute.
+We can also use `plot` function to generate plots instead of `ggplot2`.
+It will produce one map for each attribute.
 
 ```{r message=FALSE}
 plot(urban_village)
 ```
 
-You may find that both Airbnb and Urban Village are closed to the shape of City of Seattle, but they are different! Because they are using different Coordinate Reference Systems: WGS 84 and NAD83(HARN) / Washington North (ftUS).
+You may find that both Airbnb and Urban Village are closed to the shape
+of City of Seattle, but they are different! Because they are using
+different Coordinate Reference Systems: WGS 84 and NAD83(HARN) /
+Washington North (ftUS).
 
 ### Coordinate Reference System (CRS)
 
-Why is Greenland huge on the world map, even larger than the whole of Africa? [The True Size of...](https://thetruesize.com/) gives us a way to compare the true size of different countries.
+Why is Greenland huge on the world map, even larger than the whole of
+Africa? [The True Size of...](https://thetruesize.com/) gives us a way
+to compare the true size of different countries.
 
-The Earth is a 3-D sphere (almost), and we have to use a way to flatten it onto a 2-D object when conducting visualizations. Here is a two-step process:
+The Earth is a 3-D sphere (almost), and we have to use a way to flatten
+it onto a 2-D object when conducting visualizations. Here is a two-step
+process:
 
-1.  Know the location of a place on 3-D Earth using **Geographic Coordinate Systems**
+1.  Know the location of a place on 3-D Earth using **Geographic
+    Coordinate Systems**
 2.  Flatten it onto a 2-D map using **Projected Coordinate System**
 
 #### Geographic Coordinate Systems (GCS)
 
-Geographic Coordinate Systems (GCS) use degrees of **latitude** and **longitude** and sometimes also a height value to describe a location on the earth’s surface. The most popular is called [WGS 84](https://earth-info.nga.mil/index.php?dir=wgs84&action=wgs84) (EPSG:
-4326). In the US, we use [NAD83(HARN)](https://www.ngs.noaa.gov/datums/harn.shtml) (EPSG:4152) is the most common one designed for North America, which is also the official Geographic Coordinate Systems for Washington State (RCW 58.20.110).
+Geographic Coordinate Systems (GCS) use degrees of **latitude** and
+**longitude** and sometimes also a height value to describe a location
+on the earth’s surface. The most popular is called [WGS
+84](https://earth-info.nga.mil/index.php?dir=wgs84&action=wgs84) (EPSG:
+4326). In the US, we use
+[NAD83(HARN)](https://www.ngs.noaa.gov/datums/harn.shtml) (EPSG:4152) is
+the most common one designed for North America, which is also the
+official Geographic Coordinate Systems for Washington State (RCW
+58.20.110).
 
-It's worth to know the meaning of [**EPSG** (European Petroleum Survey Group)](https://epsg.io/). They create a public database containing standardized definitions for different coordinate reference system (and more). We often use the unique numeric code (EPSG code) to refer a coordinate reference system.
+It's worth to know the meaning of [**EPSG** (European Petroleum Survey
+Group)](https://epsg.io/). They create a public database containing
+standardized definitions for different coordinate reference system (and
+more). We often use the unique numeric code (EPSG code) to refer a
+coordinate reference system.
 
-![A geographic coordinate system locates latitude and longitude location using angles. Thus the spacing of each line of latitude moving north and south is not uniform. Source: ESRI](https://earthdatascience.org/images/earth-analytics/spatial-data/latitude-longitude-globe-ESRI.gif)
+![A geographic coordinate system locates latitude and longitude location
+using angles. Thus the spacing of each line of latitude moving north and
+south is not uniform. Source:
+ESRI](https://earthdatascience.org/images/earth-analytics/spatial-data/latitude-longitude-globe-ESRI.gif)
 
-Let's explore the latitude and longitude of Gould Hall under different Geographic Coordinate Systems using [epsg.io](https://epsg.io/map#srs=4326&x=-122.409668&y=47.546872&z=6&layer=streets).
+Let's explore the latitude and longitude of Gould Hall under different
+Geographic Coordinate Systems using
+[epsg.io](https://epsg.io/map#srs=4326&x=-122.409668&y=47.546872&z=6&layer=streets).
 
--   Under [WGS 84 EPSG:4326](https://epsg.io/4326): -122.312776 47.654982
--   Under [NAD83(HARN) EPSG:4152](https://epsg.io/4152): -122.312776 47.654982
--   Under [Beijing 1954 EPSG:4214](https://epsg.io/4214): -122.31277 47.654981
+-   Under [WGS 84 EPSG:4326](https://epsg.io/4326): -122.312776
+    47.654982
+-   Under [NAD83(HARN) EPSG:4152](https://epsg.io/4152): -122.312776
+    47.654982
+-   Under [Beijing 1954 EPSG:4214](https://epsg.io/4214): -122.31277
+    47.654981
 
-Even when coordinate numbers look identical, different GCS define slightly different positions on Earth with real spatial differences, sometimes a few feet or even hundreds of meters, depending on the system.
+Even when coordinate numbers look identical, different GCS define
+slightly different positions on Earth with real spatial differences,
+sometimes a few feet or even hundreds of meters, depending on the
+system.
 
 #### Projected Coordinate System (PCS)
 
@@ -453,9 +596,13 @@ Having latitude and longitude with a GCS, we only have angles. Projected
 Coordinate System (PCS) helps use transform latitude and longitude to X
 and Y on a 2-D map. The process is called projection.
 
-![The Three Families of Map Projections. (a) Cylindrical, (b) Conical, or (c) Azimuthal. Source: QGIS Documentation](https://docs.qgis.org/3.40/en/_images/projection_families.png)
+![The Three Families of Map Projections. (a) Cylindrical, (b) Conical,
+or (c) Azimuthal. Source: QGIS
+Documentation](https://docs.qgis.org/3.40/en/_images/projection_families.png)
 
-We can say **Projected Coordinate System = Geographic Coordinate System + Projection Methods + Projection Parameters**. We can categorize projections methods by what they preserve, for example:
+We can say **Projected Coordinate System = Geographic Coordinate
+System + Projection Methods + Projection Parameters**. We can categorize
+projections methods by what they preserve, for example:
 
 -   Azimuthal Projection: Preserve Distance from Center
     -   e.g. Azimuthal Equidistant
@@ -464,17 +611,31 @@ We can say **Projected Coordinate System = Geographic Coordinate System + Projec
 -   Conformal Projection: Preserve Local Angles and Shape
     -   e.g. Mercator, Lambert Conformal Conic (WA Official)
 
-Let's explore the position of Gould Hall under different Coordinate Reference Systems using [epsg.io](https://epsg.io/map#srs=4326&x=-122.409668&y=47.546872&z=6&layer=streets).
+Let's explore the position of Gould Hall under different Coordinate
+Reference Systems using
+[epsg.io](https://epsg.io/map#srs=4326&x=-122.409668&y=47.546872&z=6&layer=streets).
 
-- Under [NAD83(HARN) EPSG:4152](https://epsg.io/4152): -122.312776 47.654982
-- Under [NAD83(HARN)/Washington North (ftUS) EPSG:2926](https://epsg.io/2926): 1251144.046 203467.392
+-   Under [NAD83(HARN) EPSG:4152](https://epsg.io/4152): -122.312776
+    47.654982
+-   Under [NAD83(HARN)/Washington North (ftUS)
+    EPSG:2926](https://epsg.io/2926): 1251144.046 203467.392
 
 ##### Vega-Lite Cartographic Projections by Jeffrey Heer at University of Washington
-<div id="observablehq-map-208759d0"></div>
-<div id="observablehq-type-208759d0"></div>
-<div id="observablehq-scale-208759d0"></div>
-<div id="observablehq-translate-208759d0"></div>
+
+::: {#observablehq-map-208759d0}
+:::
+
+::: {#observablehq-type-208759d0}
+:::
+
+::: {#observablehq-scale-208759d0}
+:::
+
+::: {#observablehq-translate-208759d0}
+:::
+
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@observablehq/inspector@5/dist/inspector.css">
+
 <script type="module">
 import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
 import define from "https://api.observablehq.com/d/048f432c71a1322c.js?v=4";
@@ -492,29 +653,37 @@ In our practice, you don't have to understand all of CRS, we just need
 to remember to use appropriate CRS for our data. In Washington State, we
 use **TWO** PCSs (including some contents from RCW 58.20.130):
 
--   **North part of Washington: [NAD83(HARN)/Washington North (ftUS); EPSG:2926](https://epsg.io/2926)**
+-   **North part of Washington: [NAD83(HARN)/Washington North (ftUS);
+    EPSG:2926](https://epsg.io/2926)**
     -   Chelan, Clallam, Douglas, Ferry, Island, Jefferson, King,
         Kitsap, Lincoln, Okanogan, Pend Oreille, San Juan, Skagit,
         Snohomish, Spokane, Stevens, Whatcom, and that part of Grant
         lying north of parallel 47° 30' north latitude.
--   **South part of Washington: [NAD83(HARN)/Washington South (ftUS); EPSG:2927](https://epsg.io/2927)**
+-   **South part of Washington: [NAD83(HARN)/Washington South (ftUS);
+    EPSG:2927](https://epsg.io/2927)**
     -   Adams, Asotin, Benton, Clark, Columbia, Cowlitz, Franklin,
         Garfield, that part of Grant lying south of parallel 47° 30'
         north latitude, Grays Harbor, Kittitas, Klickitat, Lewis, Mason,
         Pacific, Pierce, Skamania, Thurston, Wahkiakum, Walla Walla,
         Whitman and Yakima.
 
-One more projected coordinate system is worth to know: [EPSG:3857 - WGS 84 / Pseudo-Mercator](https://epsg.io/3857#google_vignette), which is used for rendering maps in Google Maps, OpenStreetMap, etc. 
+One more projected coordinate system is worth to know: [EPSG:3857 - WGS
+84 / Pseudo-Mercator](https://epsg.io/3857#google_vignette), which is
+used for rendering maps in Google Maps, OpenStreetMap, etc.
 
 #### Setting CRS in R
 
-We can check the Coordinate Reference System setting using `st_crs()`. The light railway station data uses Projected Coordinate System with [EPSG code 2926](https://epsg.io/2926): **NAD83(HARN) [GCS]** + **Washington North (ftUS) [Projection]**.
+We can check the Coordinate Reference System setting using `st_crs()`.
+The light railway station data uses Projected Coordinate System with
+[EPSG code 2926](https://epsg.io/2926): **NAD83(HARN) [GCS]** +
+**Washington North (ftUS) [Projection]**.
 
 ```{r}
 st_crs(lrstations)
 ```
 
-We will transform all spatial data to EPSG 2926: NAD83(HARN) [GCS] + Washington North (ftUS).
+We will transform all spatial data to EPSG 2926: NAD83(HARN) [GCS] +
+Washington North (ftUS).
 
 ```{r}
 airbnb <- st_transform(airbnb, crs = st_crs(lrstations))
@@ -525,7 +694,11 @@ urban_village <- st_transform(urban_village, crs = 2926)
 
 ### Common `st_*()` Functions
 
-Please note that all the data manipulation methods we learned earlier, such as `fliter`, `select`, and `groupby`, can still be applied to spatial data objects. In this section, we will focus specifically on spatial operations. Through a few small, hands-on tasks, you’ll learn how to manipulate and analyze spatial features using the `sf` package.
+Please note that all the data manipulation methods we learned earlier,
+such as `fliter`, `select`, and `groupby`, can still be applied to
+spatial data objects. In this section, we will focus specifically on
+spatial operations. Through a few small, hands-on tasks, you’ll learn
+how to manipulate and analyze spatial features using the `sf` package.
 
 #### Task 1: How Many Airbnb Listings Are within 2000 Feet of Each Light Rail Station?
 
@@ -534,17 +707,22 @@ Please note that all the data manipulation methods we learned earlier, such as `
 st_crs(lrstations)$units
 ```
 
-We first select all existing or under construction stations and create a buffer zone with radius of 2,000 feet using [`st_buffer()`](https://r-spatial.github.io/sf/reference/geos_unary.html).
+We first select all existing or under construction stations and create a
+buffer zone with radius of 2,000 feet using
+[`st_buffer()`](https://r-spatial.github.io/sf/reference/geos_unary.html).
 
 ```{r}
 station_buffer <- st_buffer(lrstations %>% filter(STATUS == 'Existing / Under Construction'),
                             dist = 2000)
 ```
 
-After that, we use [`st_join()`](https://r-spatial.github.io/sf/reference/st_join.html). It
-is similar as `*_join()` functions we used before, but we use their spatial relations to join.
+After that, we use
+[`st_join()`](https://r-spatial.github.io/sf/reference/st_join.html). It
+is similar as `*_join()` functions we used before, but we use their
+spatial relations to join.
 
-![Spatial Relationships between Two Regions. Source: University of Twente](https://ltb.itc.utwente.nl/uploads/studyarea/498/Pics_2015_jpg/Fig8_13.jpg)
+![Spatial Relationships between Two Regions. Source: University of
+Twente](https://ltb.itc.utwente.nl/uploads/studyarea/498/Pics_2015_jpg/Fig8_13.jpg)
 
 ```{r}
 # whether left objects will be within right objects
@@ -564,21 +742,28 @@ airbnb_near_station %>%
 
 #### Task 2: How to Calculate the KCM Bus Density at Census Tract Level?
 
-To simplify this task, we define bus density as **total route length / tract area**. So, we need to get the length of `kcm_routes` in each tract and the area of each tract.
+To simplify this task, we define bus density as **total route length /
+tract area**. So, we need to get the length of `kcm_routes` in each
+tract and the area of each tract.
 
-`st_intersection()` can return geometric intersection of two spatial objects. It clips or cuts geometries based on where they overlap.
+`st_intersection()` can return geometric intersection of two spatial
+objects. It clips or cuts geometries based on where they overlap.
 
 ```{r}
 bus_by_tract <- st_intersection(kcm_routes, king_affordability)
 ```
 
-Check the route 67: previously, there is only a single line but now it was cut into 10 separate and smaller lines. Each row corresponding to the part of the route that lies within one tract.
+Check the route 67: previously, there is only a single line but now it
+was cut into 10 separate and smaller lines. Each row corresponding to
+the part of the route that lies within one tract.
 
 ```{r}
 bus_by_tract %>% filter(ROUTE_NUM == 67) %>% select(NAME)
 ```
 
-Then we calculate the total route length within each group. `st_length()` was used. Note: we have to define Projected Coordinate System in order to calculate length/area.
+Then we calculate the total route length within each group.
+`st_length()` was used. Note: we have to define Projected Coordinate
+System in order to calculate length/area.
 
 ```{r}
 bus_by_tract <- bus_by_tract %>%
@@ -594,7 +779,8 @@ bus_length_summary <- bus_by_tract %>%
   summarise(total_length_ft = sum(as.numeric(route_length_ft))) # replace NA with 0
 ```
 
-Similarly, we calculate the area of each census tract using `st_area()` and `*_join` the summary data:
+Similarly, we calculate the area of each census tract using `st_area()`
+and `*_join` the summary data:
 
 ```{r}
 tracts_density <- king_affordability %>%
@@ -604,8 +790,11 @@ tracts_density <- king_affordability %>%
          bus_density = replace_na(bus_density, 0))
 ```
 
-Remember, we are using the data for the whole King County. But we may only want to focus on Seattle, we can adjust the boundary of map by `coord_sf`. Because we are using a projected coordinate system, we do not know the real boundary (X and Y). `st_bbox()` can be used to
-check it.
+Remember, we are using the data for the whole King County. But we may
+only want to focus on Seattle, we can adjust the boundary of map by
+`coord_sf`. Because we are using a projected coordinate system, we do
+not know the real boundary (X and Y). `st_bbox()` can be used to check
+it.
 
 ```{r}
 st_bbox(tracts_density)
@@ -628,7 +817,9 @@ ggplot(tracts_density) +
 
 #### Task 3: How Many People are Living in Seattle Downtown?
 
-Downtown is defined in `urban_village` but population data are in `king_affordability` at census tract level. They have total different boundary:
+Downtown is defined in `urban_village` but population data are in
+`king_affordability` at census tract level. They have total different
+boundary:
 
 ```{r}
 ggplot() +
@@ -641,9 +832,14 @@ ggplot() +
     expand = FALSE)
 ```
 
-Based on the data we have, we assume the population are evenly distributed within the tract and calculate the population by proportion. Please note, in reality, City of Seattle may have population data for downtown, or we can use smaller unit, such as census block, to avoid such boundary issue.
+Based on the data we have, we assume the population are evenly
+distributed within the tract and calculate the population by proportion.
+Please note, in reality, City of Seattle may have population data for
+downtown, or we can use smaller unit, such as census block, to avoid
+such boundary issue.
 
-The estimated downtown population can be represented as ($i$ is the index for census tracts with overlaps):
+The estimated downtown population can be represented as ($i$ is the
+index for census tracts with overlaps):
 
 $$
 \text{Estimated Population}_{DT} = \sum_i (\frac{\text{Area of Overlap}_i}{\text{Total Tract Area}_i} \times \text{Population}_i )
@@ -666,13 +862,22 @@ downtown_pop <- st_intersection(king_affordability,
   summarise(total_pop_est = round(sum(pop_est, na.rm = TRUE))) # sum to the total population
 ```
 
-In the end, you may find how painful or tedious mapping can feel in R (or in any programming language). For spatial data exploration and mapping, I strongly recommend using ArcGIS or QGIS. They’re built for that purpose. However, R remains extremely powerful for spatial data analysis—especially when it comes to working with attributes, performing statistical summaries, and combining spatial and non-spatial data in a fully reproducible workflow. So, **be strategic and combine the best of both!**
+In the end, you may find how painful or tedious mapping can feel in R
+(or in any programming language). For spatial data exploration and
+mapping, I strongly recommend using ArcGIS or QGIS. They’re built for
+that purpose. However, R remains extremely powerful for spatial data
+analysis—especially when it comes to working with attributes, performing
+statistical summaries, and combining spatial and non-spatial data in a
+fully reproducible workflow. So, **be strategic and combine the best of
+both!**
 
 ### 📚 TODO: Review Spatial Data and Mapping in R
 
 **2 points**
 
-Carefully review and run all code chunks. You are encouraged to modify the arguments to explore how they affect. Reply “yes” in Canvas once you have reviewed and tested them.
+Carefully review and run all code chunks. You are encouraged to modify
+the arguments to explore how they affect. Reply “yes” in Canvas once you
+have reviewed and tested them.
 
 ## Acknowledgement
 
