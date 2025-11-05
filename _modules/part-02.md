@@ -70,7 +70,7 @@ Nov 05
   : [Page]({{ site.baseurl }}/labs/lab-06) / [Rmd]({{ site.baseurl }}/labs/lab-06.zip) 
 : **LAB 5 DUE 11:59 PM**{: .label .label-purple }
 : **Optional**{: .readings .readings-optional }[Real Estate Investment Dashboard Example. Tableau.](https://exchange.tableau.com/products/930){: .citation} <br>
-: **Optional**{: .readings .readings-optional }[Tableau Desktop and Web Authoring Help. Tableau.](https://help.tableau.com/current/pro/desktop/en-us/default.htm){: .citation} <br>
+**Optional**{: .readings .readings-optional }[Tableau Desktop and Web Authoring Help. Tableau.](https://help.tableau.com/current/pro/desktop/en-us/default.htm){: .citation} <br>
 
 
 
