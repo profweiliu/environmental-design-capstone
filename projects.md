@@ -60,7 +60,7 @@ Your project proposal should be submitted as a single PDF per group, no longer t
 
 ## Draft Work Presentation
 
-In the last week, each group will prepare a 6-8 minute presentation that covers:
+In the last week, each group will prepare a 5-minute presentation that covers:
 - State the overarching research question/motivation for your analysis
 - Describe the data sources you use for your final project
 - How you have, and plan to, clean and refine your data
