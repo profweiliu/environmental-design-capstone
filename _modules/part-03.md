@@ -6,6 +6,7 @@ title: Module 3 - Regression
 Nov 10
 : **Statistics Review for Data Analysis**
 : **LAB 6-B (Optional)**{: .label .label-golden } Command Line and SQL
+  : [Page]({{ site.baseurl }}/labs/lab-06) / [Rmd]({{ site.baseurl }}/labs/lab-06.zip) 
 
 Nov 12
 : **Linear Regression**
