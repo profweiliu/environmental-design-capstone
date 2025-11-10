@@ -5,8 +5,11 @@ title: Module 3 - Regression
 
 Nov 10
 : **Statistics Review for Data Analysis**
+  : [Slides]({{ site.baseurl }}/slides/lecture-06.pdf)
 : **LAB 6-B (Optional)**{: .label .label-golden } Command Line and SQL
   : [Page]({{ site.baseurl }}/labs/lab-06) / [Rmd]({{ site.baseurl }}/labs/lab-06.zip) 
+: **Optional**{: .readings .readings-optional }[Chapter 4-6, Seeing Theory - A Visual Introduction to Probability and Statistics. Daniel Kunin.](https://seeing-theory.brown.edu){: .citation} 
+
 
 Nov 12
 : **Linear Regression**
@@ -21,7 +24,8 @@ Nov 12
 Nov 17
 : **Predictive Modeling**
 : **LAB 7-B**{: .label .label-golden } Linear Regression in Machine Learning
-
+: **Time Series Analysis (Optional)**
+  : [Canvas Page by Christian Phillips](https://canvas.uw.edu/courses/1833875/pages/time-series-analysis)
 
 Nov 19
 : **Supervised Learning**
