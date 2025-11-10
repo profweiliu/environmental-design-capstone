@@ -8,12 +8,13 @@ Nov 10
   : [Slides]({{ site.baseurl }}/slides/lecture-06.pdf)
 : **LAB 6-B (Optional)**{: .label .label-golden } Command Line and SQL
   : [Page]({{ site.baseurl }}/labs/lab-06) / [Rmd]({{ site.baseurl }}/labs/lab-06.zip) 
-: **Optional**{: .readings .readings-optional }[Chapter 4-6, Seeing Theory - A Visual Introduction to Probability and Statistics. Daniel Kunin.](https://seeing-theory.brown.edu){: .citation} 
+: **Optional**{: .readings .readings-optional }[Chapter 1-3, Seeing Theory - A Visual Introduction to Probability and Statistics. Daniel Kunin.](https://seeing-theory.brown.edu){: .citation} 
 
 
 Nov 12
 : **Linear Regression**
 : **LAB 7-A**{: .label .label-golden } Linear Regression in Statistics
+  : [Slides]({{ site.baseurl }}/slides/lecture-06.pdf)
 : **LAB 6 DUE 11:59 PM**{: .label .label-purple }
 : **Project Proposal Due 11:59 PM**{: .label .label-purple }
     : [Project Proposal Instruction]({{ site.baseurl }}/projects/#project-proposal)
