@@ -28,7 +28,7 @@ Nov 17
 : **LAB 7-B**{: .label .label-golden } Linear Regression in Machine Learning
 : **Time Series Analysis (Optional)**
   : [Canvas Page by Christian Phillips](https://canvas.uw.edu/courses/1833875/pages/time-series-analysis)
-**Optional**{: .readings .readings-optional }[Statistical Modeling: The Two Cultures. Leo Breiman. 2001.](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full){: .citation } <br>
+: **Optional**{: .readings .readings-optional }[Statistical Modeling: The Two Cultures. Leo Breiman. 2001.](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full){: .citation } <br>
 **Optional**{: .readings .readings-optional }[Chapter 10 Predictive Modeling, Modern Data Science with R. Benjamin S. Baumer et al. 2024.](https://mdsr-book.github.io/mdsr3e/10-modeling.html){: .citation } 
 
 
