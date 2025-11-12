@@ -9,6 +9,7 @@ title: Module 4 - Advanced Topics and Final Project
 Dec 03
 : **Project Presentation**
     : [Project Presentation Instruction]({{ site.baseurl }}/projects/#draft-work-presentation)
+: **LAB 8 DUE 11:59 PM**{: .label .label-purple } 
 
 Dec 12
 : **Final Project Submission**
