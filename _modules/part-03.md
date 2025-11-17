@@ -49,6 +49,7 @@ Nov 24
 : Topic: The Housing Affordability Crisis: Property Tax as a Problem-Solver or Trouble-Maker?
 : **Unsupervised Learning (This session will be fully online)**
 : **LAB 8-B**{: .label .label-golden } K-Means Clustering
+  : [Zoom](https://washington.zoom.us/j/96078856399)
 : **LAB 7 DUE 11:59 PM**{: .label .label-purple }
 : **Optional**{: .readings .readings-optional }[Chapter 12 Unsupervised Learning, Modern Data Science with R. Benjamin S. Baumer et al. 2024.](https://mdsr-book.github.io/mdsr3e/12-learningII.html){: .citation } 
 
