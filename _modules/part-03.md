@@ -14,9 +14,9 @@ Nov 10
 
 Nov 12
 : **Linear Regression**
-  : [Slides]({{ site.baseurl }}/slides/lecture-06.pdf)
+  : [Slides]({{ site.baseurl }}/slides/lecture-07.pdf)
 : **LAB 7-A**{: .label .label-golden } Linear Regression in Statistics
-  : [Page]({{ site.baseurl }}/labs/lab-07) / [Rmd]({{ site.baseurl }}/labs/lab-07A.zip) 
+  : [Page]({{ site.baseurl }}/labs/lab-07) / [Rmd]({{ site.baseurl }}/labs/lab-07.zip) 
 : **LAB 6 DUE 11:59 PM**{: .label .label-purple }
 : **Project Proposal Due 11:59 PM**{: .label .label-purple }
     : [Project Proposal Instruction]({{ site.baseurl }}/projects/#project-proposal)
@@ -25,7 +25,9 @@ Nov 12
 
 Nov 17
 : **Predictive Modeling**
+  : [Slides]({{ site.baseurl }}/slides/lecture-07.pdf)
 : **LAB 7-B**{: .label .label-golden } Linear Regression in Machine Learning
+  : [Page]({{ site.baseurl }}/labs/lab-07) / [Rmd]({{ site.baseurl }}/labs/lab-07.zip) 
 : **Time Series Analysis (Optional)**
   : [Canvas Page by Christian Phillips](https://canvas.uw.edu/courses/1833875/pages/time-series-analysis)
 : **Optional**{: .readings .readings-optional }[Statistical Modeling: The Two Cultures. Leo Breiman. 2001.](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full){: .citation } <br>
