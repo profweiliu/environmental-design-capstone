@@ -303,7 +303,7 @@ won’t drop and the model estimates will be biased.
 -   VIF \> 5: moderate multicollinearity concern, potential for removal.
 -   VIF \> 10: serious multicollinearity, must remove the variable
 
-```{r}
+```{r message=FALSE}
 #install.packages('car')
 library(car)
 vif(simple_lm)
@@ -566,6 +566,175 @@ $$
     term usages in main text. What is the reason?
 
 ![Table 5 - Logistic Regression Results](assets/model_results.png)
+
+---
+
+## Lab 07-B: Regression in Machine Learning 
+
+We will use [`tidymodels`](https://www.tidymodels.org), which is a R package for modeling and machine learning in R using tidyverse principles. It provides us a framework. It is helpful to know that machine learning and deep learning are normally run with Python. For the consistence of this class, we will continue use R. But it is not difficult to transfer to Python! Some resources: 
+
+- [An Introduction to Python for R Users](https://rebeccabarter.com/blog/2023-09-11-from_r_to_python)
+- [Conversion R and Python](https://www.mit.edu/~amidi/teaching/data-science-tools/conversion-guide/r-python-data-manipulation/)
+
+```{r message=FALSE}
+#install.packages("tidymodels") # you only need to install once
+library(tidymodels)    
+```
+
+We will use the same dataset as section A but let's forget the most assumptions (normality, linearity, etc.) and focus purely on predictive performance! We will train and evaluate linear regression, ridge regression, and lasso regression using cross-validation to see which approach yields the best testing predictions.
+
+### Data Preparation 
+
+There are too many variables can be added to the model. Some are not suitable for a prediction task, such as longitude and latitude. We start from remove some data columns and merge some of them. After that, do some cleaning based on inspection. 
+
+In a more rigorous machine learning process, we may conduct feature engineering and selection before training. For example, we could use [Principal Component Analysis (PCA)](https://en.wikipedia.org/wiki/Principal_component_analysis) to reduce dimension or select most important features based on correlation results. A more comprehensive book on this: [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering).
+
+```{r}
+sales_pred <- sales %>%
+  mutate(view_mountains = view_rainier + view_olympics + view_cascades + view_territorial,
+         view_water = view_sound + view_lakewash + view_lakesamm + view_otherwater)
+# select some features (subjective here)
+sales_pred <- sales_pred %>%
+  dplyr::select(sale_price, year_built, sqft_lot, sqft, beds, view_skyline, view_mountains, view_water) 
+```
+
+Before train the model, we need to split the dataset into a training set and a testing set. The training data will be used to train the models, while the testing data will be reserved to evaluate how well the model generalizes to unseen observations.
+
+```{r}
+set.seed(123)
+split <- initial_split(sales_pred, prop = 0.8) # 80% training data
+train_data <- training(split)
+test_data  <- testing(split)
+```
+
+We are going to build a recipe for data preprocessing. A recipe is the steps to do data preparation under `tidymodels` framework. For Lasso and ridge, we need to normalize features.
+
+```{r}
+rec <- recipe(sale_price ~ ., data = train_data) %>% # model and dataset
+  step_poly(year_built, degree = 5) %>% # add polynomial expansion to x, x^2, x^3, x^4, x^5
+  step_poly(sqft, degree = 5) %>% 
+  step_poly(sqft_lot, degree = 5) %>%
+  step_poly(beds, degree = 5) %>%
+  step_zv(all_numeric()) %>% # remove variables that contain only a single value
+  step_normalize(all_predictors()) # normalize (center and scale) the numeric variables
+```
+
+Please note that The object `rec` is a recipe that has **not been trained** on data yet (for example, does not normalize).
+
+### Model Specification 
+
+We start from specify the lasso regression. In `tidymodels`, the model type (`linear_reg`) and the computational engine (`glmnet`) are separated.
+
+```{r}
+lasso_spec <- linear_reg(
+  penalty = tune(), # penalty hyperparameter: tuneable and selected by cross-validation
+  mixture = 1 
+  # mixture = 1 is lasso and mixture = 0 is ridge
+  # mixture in (0,1) is elastic net (combination of lasso and ridge)
+) %>% 
+  set_engine("glmnet") # specify which package or system will be used to fit the model
+  # `glmnet` is the engine that implements penalized linear models.
+```
+
+A workflow is a container that bundles together a recipe (data preprocessing steps) and a model specification.
+
+```{r}
+# use `workflow()` to put receipt and models together. We have not train yet!
+lasso_workflow <- workflow() %>%
+  add_recipe(rec) %>%
+  add_model(lasso_spec)
+```
+
+### Tuning Grid for Penalty
+
+We can define the search space for $\lambda$. `penalty(range = c(a, b))` specifies the log10 scale from $10^a$ - $10^b$. 
+
+```{r}
+lambda_grid <- grid_regular(
+  penalty(range = c(2, 5)), # 100 - 10000; determined by yourself after attempts
+  levels = 50 # try 50 values between the previous range
+)
+```
+
+### Cross-validation Setup
+
+We make 5 folds to separate the `train_data` into five equally sized subsets for cross-validation.
+
+```{r}
+folds <- vfold_cv(train_data, v = 5)
+```
+
+### Model Training via Grid Search
+
+```{r}
+tune_results <- tune_grid(
+  lasso_workflow,
+  resamples = folds,
+  grid = lambda_grid, 
+  metrics = metric_set(rmse, rsq) # we evaluate two metrics: RMSE (error) and R² (fit)
+)
+```
+
+### Cross-validation Results
+
+We show the model performance changes as $\lambda$ increases via a curve. 
+
+```{r}
+autoplot(tune_results)+
+  theme_minimal(base_family = "opensans", base_size = 12) +            
+  labs(title = "Lasso Regression Cross-validation Curve",
+       x = "Penalty/lambda (log10 scale)")
+```
+
+### Fit the Final Model using the Best $\lambda$
+
+```{r}
+best_lasso <- select_best(tune_results, metric = "rmse")
+
+# another workflow
+final_lasso <- workflow() %>%
+  add_model(finalize_model(lasso_spec, best_lasso)) %>% # finalize_model() inserts the chosen lambda into the model specification
+  add_recipe(rec) %>% # the same recipe
+  fit(train_data) # train the final Lasso model using the full training set
+```
+
+We can check the final coefficients using `tidy(workflow)`. variables with estimate = 0 have been removed by lasso regression.
+
+```{r message=FALSE}
+tidy(final_lasso) %>% filter(estimate != 0)
+```
+
+#### Testing 
+
+We evaluate the performance of the final Lasso model on the held-out test set. The `predict()` function generates predicted sale prices for the test data, and `metrics()` computes evaluation measures such as RMSE and R².
+
+```{r}
+pred_lasso <- predict(final_lasso, test_data) %>%
+  bind_cols(test_data)
+metrics(pred_lasso, truth = sale_price, estimate = .pred)
+```
+
+### 📚 TODO: Review the Code for Regression
+
+**2 points**
+
+Carefully review and run all code chunks. You are encouraged to modify the model and explore ridge regression. Reply “yes” once you have reviewed them.
+
+### 📚 TODO: Machine Learning to Predict the Rental Value
+
+**4 points**
+
+In this section, we will read a recent research paper that applies several machine learning regression techniques—including Lasso, Ridge, and tree-based models—to predict housing rental values in three African countries. The paper, [Predicting the rental value of houses using hedonic and machine learning regression models](https://doi.org/10.1371/journal.pone.0244953) examines how different modeling approaches perform when estimating rental values based on a wide range of housing characteristics, infrastructure indicators, and household attributes.
+You can find the PDF version of the article in the lab folder. Please skim the paper first and response to following questions. You can skip the parts beyond regression. 
+
+1. [1 pt] Why do we need regularization in Lasso and Ridge regression? What effect does regularization have on variance and bias, respectively? 
+2. [1 pt] In the model, the variable “roof” equals 1 if the house has a mud roof and 0 otherwise. If the Lasso regression sets the coefficient of this variable to zero in 2010, can we conclude that roof type is not associated with rental value? Why or why not?
+3. [1 pt] Why do the authors use cross-validation in their analysis? And how cross-validation is used to choose the regularization parameter ($\lambda$) in Lasso and Ridge regression?
+4. [1 pt] In the prediction performance table, OLS performs best in the in-sample evaluation, while Lasso and Ridge outperform OLS in the out-of-sample evaluation. Could you guess the reason for this pattern?
+
+![Determinants (~Coefficients) of Housing Rental Values](assets/ml_results.png) 
+
+![In-sample and Out-of-sample Prediction Performances](assets/prediction_results.png) 
 
 ## Acknowledgement
 
