@@ -14,7 +14,7 @@ Nov 10
 
 Nov 12
 : **Linear Regression**
-  : [Slides]({{ site.baseurl }}/slides/lecture-07.pdf)
+  : [Slides]({{ site.baseurl }}/slides/lecture-06.pdf)
 : **LAB 7-A**{: .label .label-golden } Linear Regression in Statistics
   : [Page]({{ site.baseurl }}/labs/lab-07) / [Rmd]({{ site.baseurl }}/labs/lab-07.zip) 
 : **LAB 6 DUE 11:59 PM**{: .label .label-purple }
