@@ -5,9 +5,7 @@ title: Module 3 - Regression
 
 Nov 10
 : **Statistics Review for Data Analysis**
-  : [Slides]({{ site.baseurl }}/slides/lecture-06.pdf)
 : **LAB 6-B (Optional)**{: .label .label-golden } Command Line and SQL
-  : [Page]({{ site.baseurl }}/labs/lab-06) / [Rmd]({{ site.baseurl }}/labs/lab-06.zip) 
 : **Optional**{: .readings .readings-optional }[Chapter 1-3, Seeing Theory - A Visual Introduction to Probability and Statistics. Daniel Kunin.](https://seeing-theory.brown.edu){: .citation} 
 
 
@@ -27,7 +25,6 @@ Nov 17
 : **Predictive Modeling**
   : [Slides]({{ site.baseurl }}/slides/lecture-07.pdf)
 : **LAB 7-B**{: .label .label-golden } Linear Regression in Machine Learning
-  : [Page]({{ site.baseurl }}/labs/lab-07) / [Rmd]({{ site.baseurl }}/labs/lab-07.zip) 
 : **Time Series Analysis (Optional)**
   : [Canvas Page by Christian Phillips](https://canvas.uw.edu/courses/1833875/pages/time-series-analysis)
 : **Optional**{: .readings .readings-optional }[Statistical Modeling: The Two Cultures. Leo Breiman. 2001.](https://projecteuclid.org/journals/statistical-science/volume-16/issue-3/Statistical-Modeling--The-Two-Cultures-with-comments-and-a/10.1214/ss/1009213726.full){: .citation } <br>
@@ -49,7 +46,6 @@ Nov 24
 : Topic: The Housing Affordability Crisis: Property Tax as a Problem-Solver or Trouble-Maker?
 : **Unsupervised Learning (This session will be fully online)**
 : **LAB 8-B**{: .label .label-golden } K-Means Clustering
-  : [Zoom](https://washington.zoom.us/j/96078856399)
 : **LAB 7 DUE 11:59 PM**{: .label .label-purple }
 : **Optional**{: .readings .readings-optional }[Chapter 12 Unsupervised Learning, Modern Data Science with R. Benjamin S. Baumer et al. 2024.](https://mdsr-book.github.io/mdsr3e/12-learningII.html){: .citation } 
 
