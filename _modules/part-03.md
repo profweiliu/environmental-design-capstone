@@ -35,7 +35,7 @@ Nov 19
 : **Supervised Learning**
   : [Slides]({{ site.baseurl }}/slides/lecture-08.pdf)
 : **LAB 8-A**{: .label .label-golden } Decision Trees
-  : [Page]({{ site.baseurl }}/labs/lab-08) 
+  : [Page]({{ site.baseurl }}/labs/lab-08) / [Rmd]({{ site.baseurl }}/labs/lab-08A.zip) 
 : **Optional**{: .readings .readings-optional }[A Golden Decade of Deep Learning: Computing Systems & Applications. Jeffrey Dean (UW Alumni, Google). 2022.](https://direct.mit.edu/daed/article/151/2/58/110623/A-Golden-Decade-of-Deep-Learning-Computing-Systems){: .citation }<br>
 **Optional**{: .readings .readings-optional }[What is a Neural Network. 3Blue1Brown. 2017.](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi){: .citation } <br>
 **Optional**{: .readings .readings-optional }[Chapter 11 Supervised Learning, Modern Data Science with R. Benjamin S. Baumer et al. 2024.](https://mdsr-book.github.io/mdsr3e/11-learningI.html){: .citation } 
