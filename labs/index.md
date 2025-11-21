@@ -37,4 +37,22 @@ description: Lab 1
 
 > > Combines Tableau and R for spatial data visualization. Introduces interactive dashboard design in Tableau and geospatial analysis in R using `sf`, focusing on coordinate systems, spatial joins, and map-based analytics.
 
+#### **LAB 6 – Dashboard using Tableau and Miscellaneous**
+
+[Page]({{ site.baseurl }}/labs/lab-06) / [Rmd]({{ site.baseurl }}/labs/lab-06.zip) 
+
+> > This lab serves as the starting point for the final project’s exploratory analysis and introduces interactive dashboard design with Tableau. The optional Section B provides a brief introduction to command line tools, virtual environments, and SQL, highlighting how they support data processing, reproducibility, and database querying in real-world analytics workflows.
+
+#### **LAB 7 – Linear Regression**
+
+[Page]({{ site.baseurl }}/labs/lab-07) / [Rmd]({{ site.baseurl }}/labs/lab-07.zip) 
+
+> > Covers linear regression in both statistical and machine learning frameworks. Part A introduces classical regression using King County sales data, focusing on model specification, assumptions, diagnostics, interactions, nonlinear terms, model comparison, and prediction. Part B introduces regression in machine learning using `tidymodels`, including data preprocessing, penalized regression (Ridge/Lasso), cross-validation, tuning, and test-set evaluation. 
+
+#### **LAB 8 – Machine Learning**
+
+[Page]({{ site.baseurl }}/labs/lab-08) / [Rmd]({{ site.baseurl }}/labs/lab-08.zip) 
+
+> > Introduces two classical machine learning methods: decision trees (supervised) and k-means clustering (unsupervised). Also, introduces neural-network intuition through 3Blue1Brown video.
+
 {% include course_footer.html %}
