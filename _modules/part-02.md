@@ -20,6 +20,7 @@ Oct 13
 Oct 15
 : **Exploratory Data Analysis (EDA)**
 : **LAB 3-B**{: .label .label-golden } Basic Exploratory Data Analysis in R 
+  : [Page]({{ site.baseurl }}/labs/lab-03) / [Rmd]({{ site.baseurl }}/labs/lab-03.zip)
 : **REQUIRED**{: .readings .readings-required}[Chapter 8, Real Estate Analysis in the Information Age. Kimberly Winson-Geideman, et al. 2018.]({{ site.baseurl }}/re-in-information-age){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[Exploratory Data Analysis. United States Environmental Protection Agency.](https://www.epa.gov/caddis/exploratory-data-analysis){: .citation}
 
@@ -57,6 +58,7 @@ Oct 29
 Nov 03 
 : **Analyze and Visualize Space**
 : **LAB 5-B**{: .label .label-golden } Sptatial Data and Mapping using R
+  : [Page]({{ site.baseurl }}/labs/lab-05) / [Rmd]({{ site.baseurl }}/labs/lab-05.zip) 
 : **Extra credits - data sharing DUE 11:59 PM**{: .label .label-purple }
 : **Required**{: .readings .readings-required }[Data Viz Project by ferdio - Geospatial Family.](https://datavizproject.com/){: .citation} <br>
 **Optional**{: .readings .readings-optional }[Cartographic Projections: An Interactive Exploration of Various Ways to Flatten a Sphere. Jeffrey Heer.](https://observablehq.com/@vega/vega-lite-cartographic-projections){: .citation} <br>
