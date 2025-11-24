@@ -46,7 +46,7 @@ Nov 24
 : **Guest Speaker: [Hsuan (Jimmy) Lo](https://www.linkedin.com/in/hsuanlo)**
   : [Zoom](https://washington.zoom.us/j/96078856399)
 : Quantitative UX Researcher, Meta; Doctor in Housing Economics, Harvard University
-: Topic: The Housing Affordability Crisis: Property Tax as a Problem-Solver or Trouble-Maker?
+: Topic: Rethinking Real Estate with AI and Data
 : **Unsupervised Learning (This session will be fully online)**
   : [Slides]({{ site.baseurl }}/slides/lecture-09.pdf)
 : **LAB 8-B**{: .label .label-golden } K-Means Clustering
