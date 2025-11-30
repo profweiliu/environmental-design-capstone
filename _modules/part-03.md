@@ -62,8 +62,10 @@ Nov 26
   : [Zoom](https://washington.zoom.us/j/96078856399)
 
 Dec 01
-: **Large Language Models with Applications and AI Ethnics**
-: **LAB 9 (Optional)**{: .label .label-golden } Building AI Chatbot
+: **Large Language Models and Societal Impacts of AI**
+  : [Slides]({{ site.baseurl }}/slides/lecture-10.pdf) / [Course Evaluation](https://uw.iasystem.org/survey/312565)
+: **LAB 9 (Optional)**{: .label .label-golden } Building an AI Chatbot
+  : [Page]({{ site.baseurl }}/labs/lab-09)
 : <!-- Readings --> **REQUIRED**{: .readings .readings-required}[Chapter 13-14, Real Estate Analysis in the Information Age. Kimberly Winson-Geideman, et al. 2018.]({{ site.baseurl }}/re-in-information-age){: .citation}  <br>
 **Optional**{: .readings .readings-optional}[A Brief Overview of AI governance for Responsible Machine Learning Systems. Navdeep Gill et al. 2022.](https://arxiv.org/abs/2211.13130){: .citation } <br>
 **Optional**{: .readings .readings-optional }[AI for Social Good. Nature Communications. Nenad Tomašev et al. 2020.](https://doi.org/10.1038/s41467-020-15871-z){: .citation }<br>
