@@ -177,7 +177,7 @@ Learning how to thoughtfully and strategically use AI-based tools may help you d
 
 According to the academic integrity requirements, we prohibit the use of AI-based tools to directly complete assignments, as well as conducting discussions and reflections in any section during class. However, we encourage students to use generative AI tools to assist with coding, debugging, and understanding class content. 
 
-You may use generative AI tools such as ChatGPT, as you would use a human collaborator. This means that you may NOT directly ask generative AI tools for answers or copy solutions. You're required to acknowledge generative AI tools as collaborators and include a paragraph describing how you used the tool. The use of generative AI tools to substantially complete an assignment or exam (e.g., by directly copying) is prohibited and will result in honor code violations. We will be checking students' assignments to enforce this policy.
+You may use generative AI tools as you would use a human collaborator. This means that you may NOT directly ask generative AI tools for answers or copy solutions. You're required to acknowledge generative AI tools as collaborators and include a paragraph describing how you used the tool. The use of generative AI tools to substantially complete an assignment or exam (e.g., by directly copying) is prohibited and will result in honor code violations. We will be checking students' assignments to enforce this policy.
 
 
 ## Disability Resources for Students (DRS)
