@@ -121,18 +121,43 @@ Formal course evaluation occurs at the end of the quarter, university-widely. If
 
 The University of Washington is the leading institution in statistics and data science in the Pacific Northwest, in the United States, and in the world. We are lucky to be here and have the chance to enjoy the invaluable resources from the university and the Seattle region. Here are some resources if you hope to learn more about statistics and data science at UW. Be free to reach out to me if you have further thoughts or any questions. 
 
-- **Coursework**
-  - [CSE 583 Software Development for Data Scientists](http://uwseds.github.io )
-  - [CSSS 508 Introduction to R for Social Scientists](https://clanfear.github.io/CSSS508/)
-  - [CSE 512 Data Visualization](https://courses.cs.washington.edu/courses/cse512/)
-  - [CSSS 569 Visualizing Data and Models](https://faculty.washington.edu/cadolph/vis)
-  - [STAT 509 Introduction to Mathematical Statistics](https://stat.uw.edu/academics/course-catalog/stat-509)
+- **Programming Course**
+    - CSSS 508: Introduction to R for Social Scientists (1 credit, deep practice in R; difficulty - easy)
+    - CSE 583: Software Development for Data Scientists (4 credits, Git, terminal, Python, development process; difficulty - moderate)
+- **Geospatial Data Course**
+    - RE 497/597: Real Estate Data Modeling (4 credits; difficulty - moderate)
+    - GEOG 561: Urban Geographic Information Systems (4 credits; difficulty - moderate)
+    - SMEA 586: Introduction to Spatial Data Manipulation and Visualization (3 credits; difficulty - moderate)
+    - CSSS 554: Statistical Methods for Spatial Data (3 credits; difficulty - challenging)
+    - CEWA 567: GEOG 561: Geospatial Data Analysis with Python (4 credits; difficulty - challenging)
+- **Visualization & Data Management Course**
+    - CSE 414: Introduction to Database Systems (4 credits; difficulty - moderate)
+    - CSE 412: Introduction to Data Visualization (4 credits; difficulty - moderate)
+    - CSSS 569: Visualizing Data and Models (4 credits; difficulty - moderate)
+    - FISH 554: Beautiful Graphics in R (2 credits; difficulty - moderate)
+    - CSE 512: Data Visualization (4 credits; difficulty - challenging)
+- **Statistics / Regression / Causal Course** 
+    - CSSS 512: Time Series and Panel Data (4 credits; difficulty - moderate)
+    - CSSS 504: Applied Regression (4 credits; difficulty - moderate)
+    - STAT 566 Causal Modeling (4 credits; difficulty - challenging)
+    - CSSS 509: Introduction to Mathematical Statistics (4 credits; difficulty - challenging)
+- **Machine Learning and AI Course**
+    - CFRM 521: Machine Learning in Finance (4 credits; difficulty - moderate)
+    - CSE 416: Introduction to Machine Learning (4 credits; difficulty - moderate)
+    - IMT 598: Epistemological Foundations of AI (4 credits; difficulty - moderate)
+    - IMT 598: Low-Code No-Code Development (4 credits; difficulty - moderate)
+    - IMT 598: Implementing and Managing AI (4 credits; difficulty - moderate)
+    - CSE 517: Natural Language Processing (4 credits; difficulty - challenging)
+    - CSE 599: Deep Learning (Computer Vision) (4 credits; difficulty - challenging)
+- **Seminars**
+    - eScience Institute (Data Science) Seminar
+    - Center for Studies in Demography and Ecology (CSDE) Seminar
+    - Center for Statistics and the Social Sciences (CSSS) Seminar
 - **Institutes and Centers**
   - [eScience Institute (Data Science)](https://escience.washington.edu)
   - [Center for Studies in Demography and Ecology](https://csde.washington.edu)
   - [Center for Statistics and the Social Sciences](https://csss.uw.edu)
   - [Center for Social Science Computation and Research](https://depts.washington.edu/csscr/)
-
 
 ## Academic Integrity 
 The University of Washington expects students to know their responsibilities and maintain the highest academic conduct standards (WAC 478-121). Students are held responsible for any violation of the University of Washington Student Code, irrespective of whether the violation was intentional or not. Students suspected of cheating or otherwise violating the misconduct code will be referred to the College disciplinary process. Behaving with integrity is part of our responsibility to our shared learning community. If you’re uncertain about whether something is academic misconduct, ask me. I am willing to discuss questions you might have. Acts of academic misconduct may include, but are not limited to:
