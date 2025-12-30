@@ -55,4 +55,10 @@ description: Lab 1
 
 > Introduces two classical machine learning methods: decision trees (supervised) and k-means clustering (unsupervised). Also, introduces neural-network intuition through 3Blue1Brown video.
 
+#### **LAB 9 – Building a Chatbot**
+
+[Page]({{ site.baseurl }}/labs/lab-09) 
+
+> > Introduces practical workflows for building and deploying an AI chatbot using large language models, with hands-on experience in Flowise and website integration.
+
 {% include course_footer.html %}
