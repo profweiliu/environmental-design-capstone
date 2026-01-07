@@ -59,6 +59,6 @@ description: Lab 1
 
 [Page]({{ site.baseurl }}/labs/lab-09) 
 
-> > Introduces practical workflows for building and deploying an AI chatbot using large language models, with hands-on experience in Flowise and website integration.
+> Introduces practical workflows for building and deploying an AI chatbot using large language models, with hands-on experience in Flowise and website integration.
 
 {% include course_footer.html %}
