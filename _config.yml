@@ -17,8 +17,8 @@ title: RE 519, Autumn 2025
 tagline: Real Estate Data Analytics and Visualization 
 description: Course Website for RE 519 Real Estate Data Analytics and Visualization at University of Washington. 
 author: Haoyu Yue
-baseurl: '/data-analytics-visualization' # the subpath of your site, e.g. /blog
-url: 'https://www.yuehaoyu.com' # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/environmental-design-capstone' # the subpath of your site, e.g. /blog
+url: 'https://www.profweiliu.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
 # Theme settings
