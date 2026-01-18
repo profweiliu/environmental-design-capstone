@@ -1,10 +1,24 @@
 ---
-title: Module 2 - Data Visualization
+title: Module 2 - Multimodal Corridors & Complete Streets
 ---
 
-<h3 style="text-align: left; font-weight: bold;">II - Data Visualization</h3> 
+<h3 style="text-align: left; font-weight: bold;">II - Multimodal Corridors & Complete Streets</h3> 
 
+Feb 2
+: **Why Multimodal Corridors**
+: **Requited**
 
+Feb 9
+: **Why Complete Streets**
+: **Requited**
+
+Feb 16
+: **Why From Framework to Design: Trade-offs, Tools, and Context**
+: **Requited**
+
+Feb 23
+: **Case Studies and Lessons Learned**
+: **Requited**
 
 Oct 13
 : **Data Visual Design**
