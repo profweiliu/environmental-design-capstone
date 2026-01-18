@@ -13,10 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: RE 519, Autumn 2025
-tagline: Real Estate Data Analytics and Visualization 
-description: Course Website for RE 519 Real Estate Data Analytics and Visualization at University of Washington. 
-author: Haoyu Yue
+title: EnD 3993, Spring 2026
+tagline: Environmental Design Capstone 
+description: Course Website for EnD 4994 Environmental Design Capstone at the University of Oklahoma. 
+author: Dr. Wei Liu
 baseurl: '/environmental-design-capstone' # the subpath of your site, e.g. /blog
 url: 'https://www.profweiliu.com' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
@@ -29,9 +29,9 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Haoyu's Homepage:
-    - 'https://www.yuehaoyu.com'
+    - 'https://www.profweiliu.com'
   Canvas:
-    - 'https://canvas.uw.edu'
+    - 'https://canvas.ou.edu'
 footer_content: 
 markdown: kramdown
 kramdown:
