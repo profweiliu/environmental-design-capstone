@@ -19,9 +19,15 @@ description: Syllabus.
 {% endfor %}
 
 ## Overview
-Real estate decision-making requires the assessment of interdisciplinary datasets, which include socioeconomic, financial, and environmental data. Determining evolving patterns, analyzing and visualizing them, is critical in holistically assessing an area and a real estate decision to be made. This course aims to provide you with an opportunity to improve your coding ability and demonstrate that using [R](https://www.r-project.org) is more replicable and efficient than Excel.
+Urban and rural communities alike are facing increasing challenges related to mobility, safety, and equitable access to opportunity. Aging transportation infrastructure, auto-oriented development patterns, and changing demographic and economic conditions have intensified the need for more integrated, context-sensitive approaches to corridor design. Multimodal corridors and complete streets have emerged as critical frameworks for rethinking how transportation systems can support community health, environmental sustainability, and long-term economic vitality. As these challenges become more complex, designers are increasingly called upon to work collaboratively, engage communities directly, and translate interdisciplinary knowledge into actionable, real-world solutions. 
 
-We will work in groups to solve tricky data analytics & visualization problems. Of course, we will encounter a lot of new commands and new ways of thinking about how data is organized. However, we will most importantly learn how to understand the process of data analysis and how to best inform our audience and honestly describe the underlying data. The course is developed based on materials from [Dr. Feiyang Sun at UC San Diego](https://fsun.ucsd.edu/), Siman Ning, and Christian Phillips. 
+This course is a 3-credit Environmental Design Capstone Studio focused on the planning and design of multimodal corridors and complete streets as critical infrastructure for community health, mobility, and economic vitality. Framed as a studio-based learning experience, the course integrates conceptual foundations, applied design methods, and real-world engagement. 
+
+During the semester, students will explore the fundamentals of multimodal corridor design and apply this knowledge to develop design recommendations for a local community in Oklahoma. The course emphasizes experiential learning through collaboration with community partners, field-based inquiry, and iterative design development. 
+
+A central component of the course is a two-day intensive design charrette, a professional practice model commonly used in urban design and planning. Students will work collaboratively in teams during the charrette to synthesize research, stakeholder input, and design strategies into actionable proposals. The charrette will be co-led by the course instructor and nationally renowned architect and urban designer Victor Dover, providing students with exposure to professional design leadership and interdisciplinary collaboration. 
+
+By the end of the course, students will have developed a comprehensive understanding of multimodal corridor principles, gained experience applying design knowledge to real-world challenges, and strengthened their capacity to work effectively in collaborative, practice-oriented design environments. 
 
 
 ## Learning Objectives 
@@ -65,12 +71,34 @@ No previous programming experience is required, but appreciated. All required an
 Bring your computer (Windows, MacBook, or Linux is acceptable) to each class. If you have any trouble with having a computer, you may check the computing resources from [the college](https://be.uw.edu/spaces/computing/), [Student Technology Loan Program](https://stlp.uw.edu), or [UW libraries computer service](https://www.lib.washington.edu/services/computers/computers). Students are also welcome to conduct any needed computer-based work in the Digital Commons in the basement of Gould Hall or other computer labs on campus.
 
 
-## Course Requirements
+## Course Structure ##
 
-| **Labs**                       |   64 %   |
-| **Data Analytics and Visualization Projects**             |   30 %   |
-| **Participation**              |   6 %    |
-| **Extra Credits**              |   3 %    |
+| **Class Participation**                       |   36 Points   |
+ *Attendance*               |   8 Points   |
+ *Engagement*               |   8 Points   |
+ *Charrette*               |   8 Points   |
+| **Assignments**             |   34 Points   |
+ *Assignment 1*               |   6 Points   |
+ *Assignment 2*               |   6 Points   |
+ *Assignment 3*               |   6 Points   |
+ *Assignment 4*               |   5 Points   |
+ *Assignment 5*               |   5 Points   |
+ *Assignment 6*               |   6 Points   |
+| **Final Project**              |   30 Points    |
+ *Final Presentation*               |   10 Points   |
+ *Final Report*               |   20 Points   |
+| **Extra Credits**              |   3 Points    |
+
+## Course Grading ##
+**A = 90-100 Points (Excellent)**. Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. 
+**B = 80-89 Points (Very Good)**. Work meets the criteria of quality, creativity, and criticality. Collaboration with teammates, where required, is good. Content exhibits thoroughness and substantiation. Craft is high. Project shows reasonable innovation and evolution.
+**C = 70-79 Points (Good/Average)**. Work meets the basic requirements of the assignment. Collaboration with teammates is functional. Content is average, perhaps lacking in depth or rigor. Craft is acceptable. Project shows minimal innovation and/or evolution.
+**D = 60-69 Points (Below average)**. Work has one more major deficit in meeting the assignment. Teamwork is irregular or uncooperative. Craft is unacceptable. Project shows no innovation and/or evolution.
+**F = Below 60 Points (Failing)**. Work does not meet the minimum requirements of the assignment.
+
+Note: At the University of Oklahoma, letter grades like A–, B+, C+, D+ are not used in official grading; instead, the grades are full letter grades only, such as A, B, C, D, and F. Rounding will apply only to the final cumulative course grade, not to individual assignments or segments. A final grade of 89.0 or higher will be rounded up to 90 and recorded as an A. The same rule applies to other grade cutoffs: 79.0 or higher will be rounded up to 80 (B), 69.0 or higher to 70 (C), and 59.0 or higher to 60 (D). Grades below this threshold will not be rounded in multiple steps (for example, a final grade of 88.7 will remain an 89 and will not be rounded again to 90). This rounding policy is final, and no further adjustments or exceptions will be made. 
+
+
 
 According to the estimates for UW courses, it should take about **9** hours of work to complete a three-credit class each week. If you spend more than 5 hours beyond the classroom, please let us know, and we will adjust the study plans for you.  
 
