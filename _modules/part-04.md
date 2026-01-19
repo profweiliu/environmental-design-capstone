@@ -35,10 +35,11 @@ May 4
 May 7
 : **Final Project Presentation** 
     <!--: [Project Presentation Instruction]({{ site.baseurl }}/projects/#draft-work-presentation)-->
+**Final Project Presentation DUE 8 AM**{: .label .label-red } <br> 
 
 May 11
 : **Final Project Submission** <br>
     <!--: [Project Submission Instruction]({{ site.baseurl }}/projects/#final-delivery)-->
-: **Final Project DUE 11:59 PM**{: .label .label-red }
+: **Final Project DUE 11:59 PM**{: .label .label-red } <br> 
 *Wei Liu is out for the Congress for the New Urbanism Annual Conference (May 13-16).* <br> 
 
