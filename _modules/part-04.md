@@ -16,6 +16,7 @@ Apr 6
 Apr 13
 : **Design Progress** <br>
 *In this class, students will work in groups on their final project, focusing on collaborative design development, analysis, and refinement. Class time will be used for teamwork.* <br> 
+*Wei Liu is out for 2026 Main Street Now Conference (April 13-15).* <br> 
 
 Apr 20
 : **Design Progress** <br>
@@ -39,4 +40,5 @@ May 11
 : **Final Project Submission** <br>
     <!--: [Project Submission Instruction]({{ site.baseurl }}/projects/#final-delivery)-->
 : **Final Project DUE 11:59 PM**{: .label .label-red }
+*Wei Liu is out for the Congress for the New Urbanism Annual Conference (May 13-16).* <br> 
 
