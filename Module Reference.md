@@ -205,3 +205,40 @@ Dec 12
 : **Final Project Submission**
     : [Project Submission Instruction]({{ site.baseurl }}/projects/#final-delivery)
 : **Final Project DUE 11:59 PM**{: .label .label-purple }
+
+Welcome to RE 519 Data Analytics and Visualization in Autumn 2025. We are looking forward to meeting you in person on our first day of class (Wednesday, September 24, 2025). The [course website](https://www.yuehaoyu.com/data-analytics-visualization/) will be the main place for all course information and materials. We will use [Canvas](https://canvas.uw.edu/courses/1833875) as a place for submitting assignments and for grading purposes. [Ed Discussion](https://edstem.org/us/courses/86258/discussion) will be used for announcements, discussion, and technical questions. 
+
+
+Before the first class on Wednesday, September 24, 2025, please:
+1. Finish the [pre-class survey](https://forms.gle/oRHQNRiwjcsaUbLQ7).
+1. Look through the readings for this class on the [course website](https://www.yuehaoyu.com/data-analytics-visualization/).
+1. Look through the [Lab 1 Part A](https://www.yuehaoyu.com/data-analytics-visualization/labs/lab-01) and try to install R and RStudio in advance. No worries if you encounter any trouble, we will install them in the first class.
+1. Bring your laptop, no matter whether Windows, Mac, or Linux, to each class! 
+
+## Use of AI
+In this course, students are permitted to use AI-based tools (such as ChatGPT) on some assignments. The instructions for each assignment will include information about whether and how you may use AI-based tools to complete the assignment. All sources, including AI tools, must be properly cited. Detailed citation guidelines can be found at the [UW Law Library](https://lib.law.uw.edu/bluebook101/genai), [MIT Libraries](https://libguides.mit.edu/cite-AI-tools), and the [UMD Libraries](https://lib.guides.umd.edu/c.php?g=1340355&p=9896961). Using AI in ways inconsistent with the parameters above will be considered academic misconduct and subject to investigation.
+
+Please note that AI results can be biased and inaccurate. It is your responsibility to ensure that the information you use from AI is accurate. Additionally, pay attention to the privacy of your data. Many AI tools will incorporate and use any content you share, so be careful not to unintentionally share copyrighted materials, original work, or personal information.
+
+Learning how to thoughtfully and strategically use AI-based tools may help you develop your skills, refine your work, and prepare you for your future career. If you have any questions about citations or about what constitutes academic integrity in this course or at the University of Washington, please feel free to contact me to discuss your concerns.
+
+According to the academic integrity requirements, we prohibit the use of AI-based tools to directly complete assignments, as well as conducting discussions and reflections in any section during class. However, we encourage students to use generative AI tools to assist with coding, debugging, and understanding class content. 
+
+You may use generative AI tools as you would use a human collaborator. This means that you may NOT directly ask generative AI tools for answers or copy solutions. You're required to acknowledge generative AI tools as collaborators and include a paragraph describing how you used the tool. The use of generative AI tools to substantially complete an assignment or exam (e.g., by directly copying) is prohibited and will result in honor code violations. We will be checking students' assignments to enforce this policy.
+
+
+---
+name: Wei Liu (Instructor)
+role: Instructor
+email: wliu@ou.edu
+website: https://www.profweiliu.com
+pronouns: he/his
+photo: wl.jpg
+meta:
+  Office Hours : Mondays 2-3 PM at Gould Hall 245L or remotely by Zoom, request by email
+
+---
+
+<helf>
+
+<!--[Schedule an appointment](#){: .btn .btn-outline }-->
