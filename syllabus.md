@@ -57,22 +57,23 @@ After successfully completing this course, students will be able to:
 
 
 ## Course Structure 
-| **Class Participation**                       |   36 Points   |
- *Attendance^*               |   8 Points   |
- *Engagement^*               |   8 Points   |
- *Charrette^*               |   20 Points   |
-| **Assignments**             |   34 Points   |
- *Assignment 1^*               |   6 Points   |
- *Assignment 2^ *               |   6 Points   |
- *Assignment 3*               |   6 Points   |
- *Assignment 4 (Group)*               |   5 Points   |
- *Assignment 5 (Group)*               |   5 Points   |
- *Assignment 6*               |   6 Points   |
-| **Final Project**              |   30 Points    |
- *Final Presentation (Group)*               |   10 Points   |
- *Final Report (Group)*               |   20 Points   |
- **Total**              |   100 Points    |
-| **Extra Credits**              |   3 Points    |
+
+**Class Participation**                       |   36 Points   |
+*Attendance^*               |   8 Points   |
+*Engagement^*               |   8 Points   |
+*Charrette^*               |   20 Points   |
+**Assignments**             |   34 Points   |
+*Assignment 1^*               |   6 Points   |
+*Assignment 2^ *               |   6 Points   |
+*Assignment 3*               |   6 Points   |
+*Assignment 4 (Group)*               |   5 Points   |
+*Assignment 5 (Group)*               |   5 Points   |
+*Assignment 6*               |   6 Points   |
+**Final Project**              |   30 Points    |
+*Final Presentation (Group)*               |   10 Points   |
+*Final Report (Group)*               |   20 Points   |
+**Total**              |   100 Points    |
+**Extra Credits**              |   3 Points    |
 
 Note: ^Grades count toward the midterm grade. 
 
