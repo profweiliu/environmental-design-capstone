@@ -9,7 +9,7 @@ description: A feed containing all of the class announcements.
 
 # Announcements
 
-A place for all class announcements. All announcements will also be published on Ed Discussion.
+A place for all class announcements. All announcements will also be published on Canvas.
 
 ---
 
