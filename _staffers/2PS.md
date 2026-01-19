@@ -1,11 +1,11 @@
 ---
-name: Peyton Steger
+name: Peyton Steger (TA)
 role: Graduate Teaching Assistant
 email: peyton.t.steger-1@ou.edu
 pronouns: she/her
-photo: wl.jpg
+photo: ps.jpg
 meta:
-  Office Hours: Mondays 2-3 PM at Gould Hall 245L or remotely by Zoom, request by email
+  Office Hours : Mondays 2-3 PM at Gould Hall 245L or remotely by Zoom, request by email
 
 ---
 
