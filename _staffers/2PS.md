@@ -5,7 +5,7 @@ email: peyton.t.steger-1@ou.edu
 pronouns: she/her
 photo: wl.jpg
 meta:
-  Office Hours: <a href="https://calendar.google.com/calendar/u/0/appointments/AcZssZ2EtqybbA68awqzWkk53rxGxuiNCS0W4pbkZdc=?gv=true">Schedule an appointment</a>
+  Office Hours: Mondays 2-3 PM at Gould Hall 245L or remotely by Zoom, request by email
 
 ---
 
