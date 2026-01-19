@@ -18,6 +18,11 @@ description: Syllabus.
 {{ staffer }}
 {% endfor %}
 
+{% assign instructors = site.staffers | where: 'role', 'Graduate Teaching Assistant' %}
+{% for staffer in instructors %}
+{{ staffer }}
+{% endfor %}
+
 ## Overview
 Urban and rural communities alike are facing increasing challenges related to mobility, safety, and equitable access to opportunity. Aging transportation infrastructure, auto-oriented development patterns, and changing demographic and economic conditions have intensified the need for more integrated, context-sensitive approaches to corridor design. Multimodal corridors and complete streets have emerged as critical frameworks for rethinking how transportation systems can support community health, environmental sustainability, and long-term economic vitality. As these challenges become more complex, designers are increasingly called upon to work collaboratively, engage communities directly, and translate interdisciplinary knowledge into actionable, real-world solutions. 
 
