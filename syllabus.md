@@ -46,43 +46,45 @@ After successfully completing this course, students will be able to:
 ## Readings 
 
 - **Required readings** are identified for each class and should be completed as preparation before coming to class.
-- **Optional readings** are useful for the class topics, and I encourage you to read them before the class. 
+- **Optional readings** are useful for the class topics, and are encouraged to read them before the class. 
 
 ### Reference Text
 
-- [Real Estate Analysis in the Information Age: Techniques for Big Data and Statistical Modeling]({{ site.baseurl }}/re-in-information-age) - by Kimberly Winson-Geideman, Andy Krause, Clifford A. Lipscomb, Nick Evangelopoulos (2018).
-- [Visualize This: The FlowingData Guide to Design, Visualization, and Statistics](https://www.wiley.com/en-us/Visualize+This%3A+The+FlowingData+Guide+to+Design%2C+Visualization%2C+and+Statistics%2C+2nd+Edition-p-9781394214860) - by Nathan Yau (2024)
-- [Data Visualization: A Practical Introduction](https://press.princeton.edu/books/hardcover/9780691181615/data-visualization?srsltid=AfmBOoogKnXuOrY1HeepuYDVq4UVDMgUn_wpWWyQpNY18sIJFCrxYY9p) - by Kieran Healy (2019)
-- [Modern Data Science with R](https://mdsr-book.github.io/mdsr3e/) - by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton (2024)
+- [Calthorpe. (2011). Urbanism in the Age of Climate Change](https://sooners-my.sharepoint.com/:b:/r/personal/wliu_ou_edu/Documents/1_Teaching/2026_SP_EnD%204993_C_LIU/Course%20Readings/Reference/Calthorope_2011_Urbanism%20in%20the%20Age%20of%20Climate%20Change.pdf?csf=1&web=1&e=Bdtveh)
+- [Dover & Massengale. (2014). Street Design: The Secret to Great Cities and Towns](https://ou-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=NORMANLAW_ALMA21435341730002042&context=L&vid=OUNEW&lang=en_US&search_scope=default_scope&adaptor=Local%20Search%20Engine&tab=default_tab&query=any,contains,Street%20Design:%20The%20Secret%20to%20Great%20Cities%20and%20Towns&offset=0)
+- [Smart Growth America. (2023). The Complete Streets Policy Framework](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDOdOwL4YpYQ63XwbrNtlS-AS0IPdMmgAuZKrv_YWhWXdA?e=rZvvgj)
+- [NACTO. (2013). Urban Street Design Guide](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCnJyN44WIEQbI8SALj0KIQAdY34NQ3aTLVRkAogPb5S5g?e=Mxpsn3)
+- [NACTO. (2014). Urban Bikeway Design Guide](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA__Ctr9utjTpA9fehqaF6WAchPEelyfQW7LWbIYiKF1zE?e=xzHedb)
+
 
 
 ## Course Structure 
 
-**Class Participation**                       |   36 Points   |
+**Class Participation**                       |   **36 Points**   |
 *Attendance^*               |   8 Points   |
 *Engagement^*               |   8 Points   |
 *Charrette^*               |   20 Points   |
-**Assignments**             |   34 Points   |
+**Assignments**             |   **34 Points**   |
 *Assignment 1^*               |   6 Points   |
 *Assignment 2^ *               |   6 Points   |
 *Assignment 3*               |   6 Points   |
 *Assignment 4 (Group)*               |   5 Points   |
 *Assignment 5 (Group)*               |   5 Points   |
 *Assignment 6*               |   6 Points   |
-**Final Project**              |   30 Points    |
+**Final Project**              |   **30 Points**    |
 *Final Presentation (Group)*               |   10 Points   |
 *Final Report (Group)*               |   20 Points   |
-**Total**              |   100 Points    |
+**Total**              |   **100 Points**    |
 **Extra Credits**              |   3 Points    |
 
 Note: ^Grades count toward the midterm grade. 
 
 ## Course Grading 
-**A = 90-100 Points (Excellent)**. Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. 
-**B = 80-89 Points (Very Good)**. Work meets the criteria of quality, creativity, and criticality. Collaboration with teammates, where required, is good. Content exhibits thoroughness and substantiation. Craft is high. Project shows reasonable innovation and evolution.
-**C = 70-79 Points (Good/Average)**. Work meets the basic requirements of the assignment. Collaboration with teammates is functional. Content is average, perhaps lacking in depth or rigor. Craft is acceptable. Project shows minimal innovation and/or evolution.
-**D = 60-69 Points (Below average)**. Work has one more major deficit in meeting the assignment. Teamwork is irregular or uncooperative. Craft is unacceptable. Project shows no innovation and/or evolution.
-**F = Below 60 Points (Failing)**. Work does not meet the minimum requirements of the assignment.
+**A = 90-100 Points (Excellent)**. Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. <br>
+**B = 80-89 Points (Very Good)**. Work meets the criteria of quality, creativity, and criticality. Collaboration with teammates, where required, is good. Content exhibits thoroughness and substantiation. Craft is high. Project shows reasonable innovation and evolution. <br>
+**C = 70-79 Points (Good/Average)**. Work meets the basic requirements of the assignment. Collaboration with teammates is functional. Content is average, perhaps lacking in depth or rigor. Craft is acceptable. Project shows minimal innovation and/or evolution. <br>
+**D = 60-69 Points (Below average)**. Work has one more major deficit in meeting the assignment. Teamwork is irregular or uncooperative. Craft is unacceptable. Project shows no innovation and/or evolution. <br>
+**F = Below 60 Points (Failing)**. Work does not meet the minimum requirements of the assignment. <br>
 
 Note: At the University of Oklahoma, letter grades like A–, B+, C+, D+ are not used in official grading; instead, the grades are full letter grades only, such as A, B, C, D, and F. Rounding will apply only to the final cumulative course grade, not to individual assignments or segments. A final grade of 89.0 or higher will be rounded up to 90 and recorded as an A. The same rule applies to other grade cutoffs: 79.0 or higher will be rounded up to 80 (B), 69.0 or higher to 70 (C), and 59.0 or higher to 60 (D). Grades below this threshold will not be rounded in multiple steps (for example, a final grade of 88.7 will remain an 89 and will not be rounded again to 90). This rounding policy is final, and no further adjustments or exceptions will be made. 
 
