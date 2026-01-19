@@ -32,7 +32,7 @@ May 7
 : **Final Project Presentation** 
     : [Project Presentation Instruction]({{ site.baseurl }}/projects/#draft-work-presentation)
 
-May 12
+May 11
 : **Final Project Submission** <br>
     : [Project Submission Instruction]({{ site.baseurl }}/projects/#final-delivery)
 : **Final Project DUE 11:59 PM**{: .label .label-red }
