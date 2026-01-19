@@ -67,9 +67,9 @@ code {
 }
 
 a {
-  color: #4b2e83; }
+  color: #841617; }
 a:hover {
-  color: #4b2e83; }
+  color: #841617; }
 
 iframe {
   max-width: 100%;
@@ -134,7 +134,7 @@ summary {
   display: inline-block;
   padding: 0.1em 0em 0.1em 0em;
   border-radius: 0em;
-  color: #4b2e83;
+  color: #841617;
   text-decoration-color: #eeebee;
   text-underline-offset: 0.18em;
   font-weight: 600;
@@ -145,7 +145,7 @@ summary {
 }
 
 .link-row a:hover {
-  color: #4b2e83;
+  color: #841617;
   background: #ffffff;
   border-radius: 0em;
   text-underline-offset: 0.25em;
@@ -331,12 +331,12 @@ dd:has(.readings) {
 
 // labels
 
-.label.label-purple {
-  background-color: #4b2e83; /* 背景色（紫色） */
+.label.label-red {
+  background-color: #841617; /* 背景色（紫色） */
   color: #ffffff;           /* 文字颜色（白色） */
 }
 
-.label.label-golden {
-  background-color: #b7a57a; /* 背景色（紫色） */
+.label.label-stone {
+  background-color: #beb4a5; /* 背景色（紫色） */
   color: #ffffff;           /* 文字颜色（白色） */
 }
