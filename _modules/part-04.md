@@ -33,7 +33,7 @@ May 4
 : **ASSIGNMENT 6 DUE AT NOON**{: .label .label-red } <br>
 
 May 7
-: **Final Project Presentation** 
+: **Final Project Presentation** <br> 
     <!--: [Project Presentation Instruction]({{ site.baseurl }}/projects/#draft-work-presentation)-->
 **Final Project Presentation DUE 8 AM**{: .label .label-red } <br> 
 
