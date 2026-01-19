@@ -1,5 +1,5 @@
 ---
-name: Peyton Steger (TA)
+name: Peyton Steger (Teaching Assistant)
 role: Graduate Teaching Assistant
 email: peyton.t.steger-1@ou.edu
 pronouns: she/her
