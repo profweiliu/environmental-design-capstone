@@ -18,7 +18,7 @@ Feb 9
 **Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
 
 Feb 16
-: **Why From Framework to Design: Trade-offs, Tools, and Context** <br>
+: **From Framework to Design: Trade-offs, Tools, and Context** <br>
 *In this class, students will be introduced to the topic “From Framework to Design,” focusing on how multimodal corridor and complete streets principles are translated into context-sensitive design decisions. Students will then have the opportunity to meet virtually with project stakeholders for interviews and guided discussions, using their contextual summaries to ask targets questions and deepen their understanding of local priorities, constraints, and opportunities.* <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation} <br>
