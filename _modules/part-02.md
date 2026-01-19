@@ -6,7 +6,7 @@ title: Module 2 - Multimodal Corridors & Complete Streets
 
 Feb 2
 : **Why Multimodal Corridors**
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
+: **REQUIRED**{: .readings .readings-required}Chapter 1[Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.]({{ site.baseurl }}/re-in-information-age){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[Chapter 1-3, Seeing Theory - A Visual Introduction to Probability and Statistics. Daniel Kunin.](https://seeing-theory.brown.edu){: .citation}  <br>
 
 Feb 9

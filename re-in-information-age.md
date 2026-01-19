@@ -14,6 +14,9 @@ It is intended for educational use only and may not be copied, shared, or distri
 All rights remain with the original copyright holder. Students are expected to respect copyright law and use this material solely for their personal study in this class. **Accessing those materials requires a UW NetID login.**
 
 
+### Readings
+
+[Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF)
 
 
 [Acknowledgement and Introductions](https://staff.washington.edu/yohaoyu/data-analytics-visualization/re-in-information-age/front.pdf)
