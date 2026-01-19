@@ -84,15 +84,15 @@ After successfully completing this course, students will be able to:
 
 Note: ^Grades count toward the midterm grade. 
 
-### Extra Credits (u3 Points)
+### Extra Credits (3 Points)
 Submit proof of completion of the Student Reflection Survey to receive up to 3 extra credit points. 
 
 ## Grading Scale
-**A = 90-100 Points (Excellent)**. Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. <br>
-**B = 80-89 Points (Very Good)**. Work meets the criteria of quality, creativity, and criticality. Collaboration with teammates, where required, is good. Content exhibits thoroughness and substantiation. Craft is high. Project shows reasonable innovation and evolution. <br>
-**C = 70-79 Points (Good/Average)**. Work meets the basic requirements of the assignment. Collaboration with teammates is functional. Content is average, perhaps lacking in depth or rigor. Craft is acceptable. Project shows minimal innovation and/or evolution. <br>
-**D = 60-69 Points (Below average)**. Work has one more major deficit in meeting the assignment. Teamwork is irregular or uncooperative. Craft is unacceptable. Project shows no innovation and/or evolution. <br>
-**F = Below 60 Points (Failing)**. Work does not meet the minimum requirements of the assignment. <br>
+**A = 90-100 Points (Excellent).** Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. <br>
+**B = 80-89 Points (Very Good).** Work meets the criteria of quality, creativity, and criticality. Collaboration with teammates, where required, is good. Content exhibits thoroughness and substantiation. Craft is high. Project shows reasonable innovation and evolution. <br>
+**C = 70-79 Points (Good/Average).** Work meets the basic requirements of the assignment. Collaboration with teammates is functional. Content is average, perhaps lacking in depth or rigor. Craft is acceptable. Project shows minimal innovation and/or evolution. <br>
+**D = 60-69 Points (Below average).** Work has one more major deficit in meeting the assignment. Teamwork is irregular or uncooperative. Craft is unacceptable. Project shows no innovation and/or evolution. <br>
+**F = Below 60 Points (Failing).** Work does not meet the minimum requirements of the assignment. <br>
 
 Note: At the University of Oklahoma, letter grades like A–, B+, C+, D+ are not used in official grading; instead, the grades are full letter grades only, such as A, B, C, D, and F. Rounding will apply only to the final cumulative course grade, not to individual assignments or segments. A final grade of 89.0 or higher will be rounded up to 90 and recorded as an A. The same rule applies to other grade cutoffs: 79.0 or higher will be rounded up to 80 (B), 69.0 or higher to 70 (C), and 59.0 or higher to 60 (D). Grades below this threshold will not be rounded in multiple steps (for example, a final grade of 88.7 will remain an 89 and will not be rounded again to 90). This rounding policy is final, and no further adjustments or exceptions will be made. 
 
@@ -154,8 +154,8 @@ Should you need modifications or adjustments to your course requirements because
 Pre-finals week will be defined as the seven calendar days before the first day of finals. Faculty may cover new course material throughout this week. For specific provisions of the policy please refer to OU's[Final Exam Preparation Period policy](https://www.ou.edu/registrar/academic-records/academic-calendars/final-exam-policies#:~:text=Exams%20may%20not%20be%20given,prior%20to%20pre%2Dfinals%20week.).
 
 ### Emergency Protocol 
-During an emergency, there are official university [procedures](https://www.ou.edu/campussafety/policy-and-procedures) that will maximize your safety. 
-**Severe Weather:** If you receive an OU Alert to seek refuge or hear a tornado siren that signals severe weather.
+During an emergency, there are official university [procedures](https://www.ou.edu/campussafety/policy-and-procedures) that will maximize your safety. <br>
+Severe Weather: If you receive an OU Alert to seek refuge or hear a tornado siren that signals severe weather.
 - Look for severe weather refuge location maps located inside most OU buildings near the entrances.
 - Seek refuge inside a building. Do not leave one building to seek shelter in another building that you deem safer. If outside, get into the nearest building. 
 - Go to the building’s severe weather refuge location. If you do not know where that is, go to the lowest level possible and seek refuge in an innermost room. Avoid outside doors and windows. 
@@ -172,12 +172,12 @@ The University of Oklahoma embraces a Run, Hide, Fight strategy for active threa
 
 **FIGHT:** If you are unable to run or hide, the last best option is to fight. Have one or more improvised weapons with you and be prepared to attack. Attack them when they are least expecting it and hit them where it hurts most: the face (specifically eyes, nose, and ears), the throat, the diaphragm (solar plexus), and the groin.
 
-Please save OUPD’s contact information in your phone.
-**NORMAN** campus:  For non-emergencies call (405) 325-1717. For emergencies call (405) 325-1911 or dial 911.
-**TULSA** campus:  For non-emergencies call (918) 660-3900. For emergencies call (918) 660-3333 or dial 911.
+Please save OUPD’s contact information in your phone.<br>
+**NORMAN** campus:  For non-emergencies call (405) 325-1717. For emergencies call (405) 325-1911 or dial 911.<br>
+**TULSA** campus:  For non-emergencies call (918) 660-3900. For emergencies call (918) 660-3333 or dial 911.<br>
 
 ### Fire Alarm/General Emergency 
-If you receive an OU Alert that there is danger inside or near the building, or the fire alarm inside the building activates: 
+If you receive an OU Alert that there is danger inside or near the building, or the fire alarm inside the building activates: <br>
 - LEAVE the building. Do not use the elevators.
 - KNOW at least two building exits
 - ASSIST those that may need help
