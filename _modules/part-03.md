@@ -13,6 +13,7 @@ Mar 7
 
 Mar 9
 : **Charrette Replacement (No Class)** <br>
+*Class hours fulfilled during the charrette*
 
 Mar 16
 : **Spring Break (No Class)** <br>
@@ -20,3 +21,4 @@ Mar 16
 Mar 23
 : **Charrette Replacement (No Class)** <br>
 : **ASSIGNMENT 3 DUE AT NOON**{: .label .label-red } <br>
+*Class hours fulfilled during the charrette*
