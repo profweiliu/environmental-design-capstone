@@ -6,7 +6,11 @@ title: Module 2 - Multimodal Corridors & Complete Streets
 
 Feb 2
 : **Why Multimodal Corridors**
-: **Requited**
+: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
+**Optional**{: .readings .readings-optional }[Chapter 1-3, Seeing Theory - A Visual Introduction to Probability and Statistics. Daniel Kunin.](https://seeing-theory.brown.edu){: .citation}  <br>
+**Optional**{: .readings .readings-optional }[Chapter 5: Market, Place, Interface, All Data Are Local: Thinking Critically in a Data-Driven Society. Yanni Alexander Loukissas. 2019.](https://direct.mit.edu/books/oa-monograph/4323/chapter-standard/181052/Market-Place-Interface){: .citation} <br>
+
+https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF
 
 Feb 9
 : **Why Complete Streets**
