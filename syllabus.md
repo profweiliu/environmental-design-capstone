@@ -71,7 +71,7 @@ After successfully completing this course, students will be able to:
 *Charrette^*               |   20 Points   |
 **Assignments**             |   **34 Points**   |
 *Assignment 1^*               |   6 Points   |
-*Assignment 2^ *               |   6 Points   |
+*Assignment 2^*               |   6 Points   |
 *Assignment 3*               |   6 Points   |
 *Assignment 4 (Group)*               |   5 Points   |
 *Assignment 5 (Group)*               |   5 Points   |
