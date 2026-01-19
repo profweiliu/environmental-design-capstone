@@ -30,31 +30,23 @@ A central component of the course is a two-day intensive design charrette, a pro
 By the end of the course, students will have developed a comprehensive understanding of multimodal corridor principles, gained experience applying design knowledge to real-world challenges, and strengthened their capacity to work effectively in collaborative, practice-oriented design environments. 
 
 
-## Learning Objectives 
-After successfully completing this course, you should be able to:
+## Learning Outcomes 
+After successfully completing this course, students will be able to:
 
-1. Create, debug, debug again, then submit scripts to perform data analysis in R using RStudio
-2. Import data in variety of formats; including interacting with APIs to access public databases
-3. Be more aware of the real estate data landscape in the US, Washington, and the Puget Sound region
-4. Wrangle data using the tidyverse package; manipulate, combine, and collapse datasets
-5. Map data and understand the challenges when working with spatial data
-6. Interpret data visualizations, document, and present your data analysis using R Markdown
-7. Understand the basic taxonomy of a data analysis methods and conduct regression and basic machine learning models
-8. Know essential concepts in deep learning and artificial intelligence
-9. Understand ethical challenges in applying AI and data science to real-world contexts
-
-Overall, students are expected to gain proficiency in identifying the appropriate analysis and visual method based on the dataset they have and the message they would like to convey.
+1. Explain the theory, purpose, and professional relevance of multimodal corridors and complete streets, including their roles in mobility, safety, land use integration, and environmental performance.
+2. Analyze transportation corridors at multiple scales by evaluating transportation systems, land use patterns, social context, and environmental conditions, with particular attention to rural and small-community settings.
+3. Apply multimodal corridor and complete streets principles to real-world contexts by developing context-sensitive, actionable design strategies that respond to identified community needs.
+4. Translate planning and design concepts into clear, implementable design recommendations appropriate for professional and community-facing settings.
+5. Collaborate effectively within a charrette-based design environment, demonstrating interdisciplinary thinking, time-intensive problem solving, and the ability to synthesize diverse inputs into coherent design outcomes.
+6. Engage constructively with community stakeholders and external experts by identifying challenges, interpreting local knowledge, and integrating stakeholder perspectives into design proposals.
+7. Communicate professionally through drawings, diagrams, verbal presentations, peer feedback, and written materials appropriate to academic, professional, and public audiences.
 
 
-## Pre-requisites
-- Basic knowledge of statistics is required (e.g., R E 506, URBAN 520, STAT 221).
-- Basic knowledge of any programming language (e.g., CS&SS 508, CSE 160) is recommended but not required.
 
-## Readings and Class Materials
+## Readings 
 
-- **Class slides** for every lecture will be posted on the course website before the lectures. 
 - **Required readings** are identified for each class and should be completed as preparation before coming to class.
-- **Optional readings** are useful for the class topics, and I encourage you to read them before the class. Some resources related to coding will be listed on the lab pages.
+- **Optional readings** are useful for the class topics, and I encourage you to read them before the class. 
 
 ### Reference Text
 
@@ -64,32 +56,27 @@ Overall, students are expected to gain proficiency in identifying the appropriat
 - [Modern Data Science with R](https://mdsr-book.github.io/mdsr3e/) - by Benjamin S. Baumer, Daniel T. Kaplan, and Nicholas J. Horton (2024)
 
 
-## Computing
-
-No previous programming experience is required, but appreciated. All required analytics applications will be in R/RStudio or Python. We will have an installation session during the first class.
-
-Bring your computer (Windows, MacBook, or Linux is acceptable) to each class. If you have any trouble with having a computer, you may check the computing resources from [the college](https://be.uw.edu/spaces/computing/), [Student Technology Loan Program](https://stlp.uw.edu), or [UW libraries computer service](https://www.lib.washington.edu/services/computers/computers). Students are also welcome to conduct any needed computer-based work in the Digital Commons in the basement of Gould Hall or other computer labs on campus.
-
-
-## Course Structure ##
-
+## Course Structure 
 | **Class Participation**                       |   36 Points   |
- *Attendance*               |   8 Points   |
- *Engagement*               |   8 Points   |
- *Charrette*               |   8 Points   |
+ *Attendance^*               |   8 Points   |
+ *Engagement^*               |   8 Points   |
+ *Charrette^*               |   20 Points   |
 | **Assignments**             |   34 Points   |
- *Assignment 1*               |   6 Points   |
- *Assignment 2*               |   6 Points   |
+ *Assignment 1^*               |   6 Points   |
+ *Assignment 2^ *               |   6 Points   |
  *Assignment 3*               |   6 Points   |
- *Assignment 4*               |   5 Points   |
- *Assignment 5*               |   5 Points   |
+ *Assignment 4 (Group)*               |   5 Points   |
+ *Assignment 5 (Group)*               |   5 Points   |
  *Assignment 6*               |   6 Points   |
 | **Final Project**              |   30 Points    |
- *Final Presentation*               |   10 Points   |
- *Final Report*               |   20 Points   |
+ *Final Presentation (Group)*               |   10 Points   |
+ *Final Report (Group)*               |   20 Points   |
+ **Total**              |   100 Points    |
 | **Extra Credits**              |   3 Points    |
 
-## Course Grading ##
+Note: ^Grades count toward the midterm grade. 
+
+## Course Grading 
 **A = 90-100 Points (Excellent)**. Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. 
 **B = 80-89 Points (Very Good)**. Work meets the criteria of quality, creativity, and criticality. Collaboration with teammates, where required, is good. Content exhibits thoroughness and substantiation. Craft is high. Project shows reasonable innovation and evolution.
 **C = 70-79 Points (Good/Average)**. Work meets the basic requirements of the assignment. Collaboration with teammates is functional. Content is average, perhaps lacking in depth or rigor. Craft is acceptable. Project shows minimal innovation and/or evolution.
@@ -98,105 +85,93 @@ Bring your computer (Windows, MacBook, or Linux is acceptable) to each class. If
 
 Note: At the University of Oklahoma, letter grades like A–, B+, C+, D+ are not used in official grading; instead, the grades are full letter grades only, such as A, B, C, D, and F. Rounding will apply only to the final cumulative course grade, not to individual assignments or segments. A final grade of 89.0 or higher will be rounded up to 90 and recorded as an A. The same rule applies to other grade cutoffs: 79.0 or higher will be rounded up to 80 (B), 69.0 or higher to 70 (C), and 59.0 or higher to 60 (D). Grades below this threshold will not be rounded in multiple steps (for example, a final grade of 88.7 will remain an 89 and will not be rounded again to 90). This rounding policy is final, and no further adjustments or exceptions will be made. 
 
+## Participation 
+This course is structured around active participation, including in-class discussion, collaborative work, pin-up reviews, design progress critiques, and peer feedback. Consistent in-person attendance is therefore essential to the success of both the individual student and the class as a whole. Students are allowed two (2) absences over the course of the semester. Each additional absence beyond the two allowed will result a deduction to the student’s participation grade. Participation in the charrette session is mandatory. The charrette is a core component of the course and is essential to meeting the learning objectives. An absence from the charrette may result in a significant penalty and may jeopardize successful completion of the course. Any anticipated conflict must be discussed with the professor in advance. Design progress reviews are critical instructional moments. Missing a scheduled review or critique counts as two absences. Students are responsible for contacting a classmate to obtain notes or information from any missed session and completing all missed work. Attendance, engagement, preparedness, and constructive feedback to peers are all considered when evaluating class participation. 
 
-
-According to the estimates for UW courses, it should take about **9** hours of work to complete a three-credit class each week. If you spend more than 5 hours beyond the classroom, please let us know, and we will adjust the study plans for you.  
-
-The total scores will be curved and transformed into the UW numerical grading system for graduate courses, ranging from 4.0 to 1.7 in 0.1 increments as the final grade.
-
-**Late days**: You will have **6** penalty-free late days in total (max 3 late days per assignment). Any delayed submission after the first 3 days will be penalized 10% per day for that specific assignment (but will not count towards your used late days). Note: Late days CANNOT be used for the project presentation and final delivery. 
-
-
-### Labs (64%)
-
-There will be a total of 8 labs and 8% each for each lab. Each lab will take approximately one week, and the expected finish time is around 1~2 hours after class. You only need to submit once after each lab via [Canvas](http://canvas.uw.edu). Each student is expected to submit their own lab, but study groups are allowed. But you're expected to acknowledge the names of collaborators along with a short description of the types of collaborations being done at the beginning of each lab submission. You may use generative AI tools such as Co-Pilot and ChatGPT, but please check the AI policy section. 
-
-All labs will be due at 11:59 pm Pacific Time and should be submitted on Canvas or GitHub. The submission should include Rmd, HTML, and any other files required to rerun the code.
-
-### Data Analytics and Visualization Projects  (30%)
-
-See the details in the <a href="{{ site.baseurl }}/projects">Data Analytics and Visualization Projects</a> page. 
-
-### Participation (6%)
-
-There will be several surveys and in-class quizzes, which will be graded on completion. It is highly recommended that students attend the course regularly, as the sessions will be offered synchronously and will not be recorded. We will use class time to do the necessary activities. Class attendance and participation are integral parts of this course; much of the key material will be introduced and discussed in lectures. 
-
-### Extra Credits (up to 3%)
-
-There will be two ways to receive extra credits:
-
-- **Dataset sharing (2%)**
-  - From week 2 to 6, share high-quality datasets directly related to real estate and housing on [Ed Discussion](https://edstem.org). 
-  - The dataset cannot be repeated with the previous datasets shared by other students. 
-  - 5 unique datasets to receive 2%, 3 unique datasets to receive 1%.
-  - Any unique dataset will be listed on the <a href="{{ site.baseurl }}/resources/#datasets">Resources</a> page for others to refer to. 
-- **Course evaluation (1%)**
-  - We will leave some time in the last class to participate in the anonymous course evaluation. 
-
-
-
-## Communication and Community Forum
-You can reach us via [Ed Discussion](https://edstem.org), email, and in person during class and office hours. Please use the [Ed Discussion](https://edstem.org) as the first place to ask general questions. If you have a question about the course material or assignment, other students may have the same question. If you email me with a question like this, I will ask you to post it on the discussion board. I will review the discussion board at least once a day (weekdays). I also encourage students to answer each other’s questions on the discussion board. For emails, we try to reply to emails within 24 hours, 48 hours over a weekend, and the workday following a holiday unless otherwise noted. Simple questions will be answered by [Ed Discussion](https://edstem.org) or email, but students may be asked to schedule a meeting for more complex discussions.
-
- 
-
-## Course Evaluation 
-
-Formal course evaluation occurs at the end of the quarter, university-widely. If you are experiencing a problem with the class, please let me know as soon as possible, as I might be able to make changes if needed within the course of the class.
-
-
-## Statistics and Data Science @ UW
-
-The University of Washington is the leading institution in statistics and data science in the Pacific Northwest, in the United States, and in the world. We are lucky to be here and have the chance to enjoy the invaluable resources from the university and the Seattle region. Here are some resources if you hope to learn more about statistics and data science at UW. Be free to reach out to me if you have further thoughts or any questions. 
-
-- **Programming Course**
-    - CSSS 508: Introduction to R for Social Scientists (1 credit, deep practice in R; difficulty - easy)
-    - CSE 583: Software Development for Data Scientists (4 credits, Git, terminal, Python, development process; difficulty - moderate)
-- **Geospatial Data Course**
-    - RE 497/597: Real Estate Data Modeling (4 credits; difficulty - moderate)
-    - GEOG 561: Urban Geographic Information Systems (4 credits; difficulty - moderate)
-    - SMEA 586: Introduction to Spatial Data Manipulation and Visualization (3 credits; difficulty - moderate)
-    - CSSS 554: Statistical Methods for Spatial Data (3 credits; difficulty - challenging)
-    - CEWA 567: GEOG 561: Geospatial Data Analysis with Python (4 credits; difficulty - challenging)
-- **Visualization & Data Management Course**
-    - CSE 414: Introduction to Database Systems (4 credits; difficulty - moderate)
-    - CSE 412: Introduction to Data Visualization (4 credits; difficulty - moderate)
-    - CSSS 569: Visualizing Data and Models (4 credits; difficulty - moderate)
-    - FISH 554: Beautiful Graphics in R (2 credits; difficulty - moderate)
-    - CSE 512: Data Visualization (4 credits; difficulty - challenging)
-- **Statistics / Regression / Causal Course** 
-    - CSSS 512: Time Series and Panel Data (4 credits; difficulty - moderate)
-    - CSSS 504: Applied Regression (4 credits; difficulty - moderate)
-    - STAT 566 Causal Modeling (4 credits; difficulty - challenging)
-    - CSSS 509: Introduction to Mathematical Statistics (4 credits; difficulty - challenging)
-- **Machine Learning and AI Course**
-    - CFRM 521: Machine Learning in Finance (4 credits; difficulty - moderate)
-    - CSE 416: Introduction to Machine Learning (4 credits; difficulty - moderate)
-    - IMT 598: Epistemological Foundations of AI (4 credits; difficulty - moderate)
-    - IMT 598: Low-Code No-Code Development (4 credits; difficulty - moderate)
-    - IMT 598: Implementing and Managing AI (4 credits; difficulty - moderate)
-    - CSE 517: Natural Language Processing (4 credits; difficulty - challenging)
-    - CSE 599: Deep Learning (Computer Vision) (4 credits; difficulty - challenging)
-- **Seminars**
-    - eScience Institute (Data Science) Seminar
-    - Center for Studies in Demography and Ecology (CSDE) Seminar
-    - Center for Statistics and the Social Sciences (CSSS) Seminar
-- **Institutes and Centers**
-  - [eScience Institute (Data Science)](https://escience.washington.edu)
-  - [Center for Studies in Demography and Ecology](https://csde.washington.edu)
-  - [Center for Statistics and the Social Sciences](https://csss.uw.edu)
-  - [Center for Social Science Computation and Research](https://depts.washington.edu/csscr/)
+## Writing Center 
+Students are strongly encouraged to take advantage of the University of Oklahoma Writing Center throughout the semester. The Writing Center provides one-on-one support to help you sharpen your arguments, strengthen essay organization, and improve the overall clarity of your writing. Most importantly, the Writing Center can assist you in learning how to use citations correctly and effectively. For this course, all written work must follow APA 7th edition citation style. Scheduling an appointment early in the drafting process can help you refine your ideas, avoid last-minute stress, and build long-term writing skills that will support your success in this course and beyond. To learn more or make an appointment, visit the [Writing Center](https://www.ou.edu/writingcenter). 
 
 ## Academic Integrity 
-The University of Washington expects students to know their responsibilities and maintain the highest academic conduct standards (WAC 478-121). Students are held responsible for any violation of the University of Washington Student Code, irrespective of whether the violation was intentional or not. Students suspected of cheating or otherwise violating the misconduct code will be referred to the College disciplinary process. Behaving with integrity is part of our responsibility to our shared learning community. If you’re uncertain about whether something is academic misconduct, ask me. I am willing to discuss questions you might have. Acts of academic misconduct may include, but are not limited to:
+The overall goal of this course is your learning. In order to demonstrate that you have reached this goal, the work you turn in needs to be your own. This includes putting written work into your own words and citing your sources, as appropriate to avoid plagiarism. If you work in a group, seek assistance from a tutor, use a resource on campus, and/or use online resources (including AI software), the work you turn in must be your own, demonstrating your own understanding of the material that you have gained through the learning process. 
 
-- Cheating (working collaboratively on quizzes and exams, sharing answers, etc.).
-- Plagiarism (using another person’s words or ideas without proper citation).
-- Unauthorized collaboration (working with others on assignments without acknowledgment).
-- Concerns about these or other behaviors prohibited by the Student Conduct Code will be referred for investigation and adjudication.
+If you have questions about academic integrity or plagiarism, please ask: my aim is to foster an environment where you can learn and grow, while also maintaining academic honesty and a clear representation of your learning and ideas. Penalties for serious offenses include a zero on the assignment and egregious offenses can even result in expulsion from the university, so it is important to understand expectations.
+Plagiarism as defined by the [OU Integrity Office](https://www.ou.edu/integrity/students#OU-and-Integrity) includes:
+- Copying words and presenting them as your own writing.
+- Copying words, even if you give the source, unless you also indicate that the copied words are a direct quotation
+- Copying words and then changing them a little, even if you give the source. 
+- Even if you express it in your own words, it is plagiarism to use someone else’s idea as your own.
+Visit the [OU Integrity Office](https://www.ou.edu/integrity/students#OU-and-Integrity) for more information on what constitutes plagiarism.
+
+## Generative AI Policy 
+Generative AI tools may be used in this course for brainstorming, planning, and learning purposes. For example, you are welcome to experiment with AI to generate possible approaches to an assignment, draft outlines, or clarify your understanding of a concept. However, all submitted work, including written assignments, design graphics, and final project reports, must be entirely your own. Direct use of Generative AI outputs in your submitted work (copying text, images, or other content produced by AI) is not permitted. All submissions on Canvas will be evaluated through Turnitin, which detects both plagiarism and AI-generated content. Any assignment found to contain AI-generated or plagiarism will receive a grade of ZERO. 
+
+## Inclusive & Respectful Classroom 
+The Christopher C. Gibbs College of Architecture is committed to building a diverse and inclusive community. The college has compiled a directory of campus-wide resources that support this commitment.  
+
+## Land Acknowledge Statement Provided by OU's Tribal Liaison Office 
+Long before the University of Oklahoma was established, the land on which the University now resides was the traditional home of the “Hasinais” Caddo Nation and “Kirikirʔi:s” Wichita & Affiliated Tribes. We acknowledge this territory once also served as a hunting ground, trade exchange point, and migration route for the Apache, Comanche, Kiowa and Osage nations. Today, 39 tribal nations dwell in the state of Oklahoma as a result of settler and colonial policies that were designed to assimilate Native people. The University of Oklahoma recognizes the historical connection our university has with its indigenous community. We acknowledge, honor, and respect the diverse Indigenous peoples connected to this land. We fully recognize, support and advocate for the sovereign rights of all of Oklahoma’s 39 tribal nations. This acknowledgement is aligned with our university’s core value of creating a diverse and inclusive community. It is an institutional responsibility to recognize and acknowledge the people, culture and history that make up our entire OU Community.
+
+## Mental Health Support Services 
+Support is available for any student experiencing mental health issues that are impacting their academic success.  Students can either been seen at the University Counseling Center (UCC) located on the second floor of Goddard Health Center or receive 24/7/365 crisis support from a licensed mental health provider through [TELUS](https://ou.edu/studentaffairs/resources/timelycare) Health.  To schedule an appointment or receive more information about mental health resources at OU please call the UCC at 405-325-2911 or visit  [University Counseling Center](https://www.ou.edu/ucc). The UCC is located at 620 Elm Ave., Room 201, Norman, OK 73019.
+
+## Title IX Resources and Reporting Requirement 
+The University of Oklahoma faculty are committed to creating a safe learning environment for all members of our community, free from gender and sex-based discrimination, including sexual harassment, domestic and dating violence, sexual assault, and stalking, in accordance with Title IX. There are resources available to those impacted, including: speaking with someone confidentially about your options, medical attention, counseling, reporting, academic support, and safety plans. If you have (or someone you know has) experienced any form of sex or gender-based discrimination or violence and wish to speak with someone confidentially, please contact [OU Advocates](https://www.ou.edu/advocacyandeducation/ou-advocates) (available 24/7 at 405-615-0013) or [University Counseling Center](https://ou.edu/ucc) (M-F 8 a.m. to 5 p.m. at 405-325-2911) 
+
+Because the University of Oklahoma is committed to the safety of you and other students, and because of our Title IX obligations, I, as well as other faculty, Graduate Assistants, and Teaching Assistants, are mandatory reporters. This means that we are obligated to report gender-based violence that has been disclosed to us to the Institutional Equity Office. This means that we are obligated to report gender-based violence that has been disclosed to us to the Institutional Equity Office. This includes disclosures that occur in: class discussion, writing assignments, discussion boards, emails and during Student/Office Hours. You may also choose to report directly to the Institutional Equity Office. After a report is filed, the Title IX Coordinator will reach out to provide resources, support, and information and the reported information will remain private. For more information regarding the University’s Title IX Grievance procedures, reporting, or support measures, please visit [Institutional Equity Office](https://www.ou.edu/eoo) at 405-325-3546.
+
+## Reasonable Accommodation Policy 
+The University of Oklahoma (OU) is committed to the goal of achieving equal educational opportunity and full educational participation for students with disabilities. If you have already established reasonable accommodations with the Accessibility and Disability Resource Center (ADRC), please [submit your semester accommodation request through the ADRC](https://www.ou.edu/adrc/students/adrc-registered-students/accommodation-request) as soon as possible and contact me privately, so that we have adequate time to arrange your approved academic accommodations.
+
+If you have not yet established services through ADRC, but have a documented disability and require accommodations, please complete [ADRC’s pre-registration form](https://shib.ou.edu/oxauth/authorize.htm?scope=openid+email+user_name&response_type=code&redirect_uri=https%3A%2F%2Fshib.ou.edu%2Fidp%2FAuthn%2FoxAuth&state=eyJ0eXAiOiJKV1QiLCJhbGciOiJub25lIn0.eyJzdGF0ZSI6IkNVOFdEdnFSZUkiLCJjb252ZXJzYXRpb24iOiJlMXMxIn0.&nonce=nkpaaGFaKw&client_id=1101.c88d370b-6bb6-4d88-b149-dceb64796c17) to begin the registration process.  ADRC facilitates the interactive process that establishes reasonable accommodations for students at OU. For more information on ADRC registration procedures, please review their [Register with the ADRC](https://www.ou.edu/adrc/about/registering-with-the-adrc) web page. You may also contact them at (405)325-3852 or [adrc@ou.edu](adrc@ou.edu), or visit [www.ou.edu/adrc](www.ou.edu/adrc) for more information.  
+
+Note: disabilities may include, but are not limited to, mental health, chronic health, physical, vision, hearing, learning and attention disabilities, pregnancy-related. ADRC can also support students experiencing temporary medical conditions.
+Religious Observance
+
+It is the policy of the University to excuse the absences of students that result from religious observances and to reschedule examinations and additional required classwork that may fall on religious holidays, without penalty.
+
+## Adjustments for Pregnancy and Related Issues 
+Should you need modifications or adjustments to your course requirements because of pregnancy or a pregnancy-related condition, please request modifications via the [Institutional Equity Office](https://www.ou.edu/eoo/pregnancy-and-parenting) website or call the Institutional Equity Office at 405/325-3546 as soon as possible. Also, see the Institutional Equity Office [FAQ on Pregnant and Parenting Students’ Rights](https://www.ou.edu/content/dam/eoo/documents/faqs/faqs-pregnant-and-parenting-students.pdf) for answers to commonly asked questions.
+
+## Final Exam Period 
+Pre-finals week will be defined as the seven calendar days before the first day of finals. Faculty may cover new course material throughout this week. For specific provisions of the policy please refer to [OU’s Final Exam Preparation Period policy](https://www.ou.edu/registrar/academic-records/academic-calendars/final-exam-policies#:~:text=Exams%20may%20not%20be%20given,prior%20to%20pre%2Dfinals%20week.).
+
+## Emergency Protocol 
+During an emergency, there are official university [procedures](https://www.ou.edu/campussafety/policy-and-procedures) that will maximize your safety. 
+Severe Weather: If you receive an OU Alert to seek refuge or hear a tornado siren that signals severe weather.
+- Look for severe weather refuge location maps located inside most OU buildings near the entrances.
+- Seek refuge inside a building. Do not leave one building to seek shelter in another building that you deem safer. If outside, get into the nearest building. 
+- Go to the building’s severe weather refuge location. If you do not know where that is, go to the lowest level possible and seek refuge in an innermost room. Avoid outside doors and windows. 
+- Get in, Get Down, Cover Up 
+- Wait for official notice to resume normal activities. 
+Additional [Weather Safety Information](https://www.ou.edu/campussafety/divisions#management) is available through the Department of Campus Safety.
+
+## The University of Oklahoma Active Threat Guidance 
+The University of Oklahoma embraces a Run, Hide, Fight strategy for active threats on campus. This strategy is well known, widely accepted, and proven to save lives. To receive emergency campus alerts, be sure to update your contact information and preferences in the account settings section at [one.ou.edu](one.ou.edu).
+
+**RUN:** Running away from the threat is usually the best option. If it is safe to run, run as far away from the threat as possible. Call 911 when you are in a safe location and let them know from which OU campus you’re calling from and location of active threat.
+
+**HIDE:** If running is not practical, the next best option is to hide. Lock and barricade all doors; turn of all lights; turn down your phone’s volume; search for improvised weapons; hide behind solid objects and walls; and hide yourself completely and stay quiet. Remain in place until law enforcement arrives. Be patient and remain hidden.
+
+**FIGHT:** If you are unable to run or hide, the last best option is to fight. Have one or more improvised weapons with you and be prepared to attack. Attack them when they are least expecting it and hit them where it hurts most: the face (specifically eyes, nose, and ears), the throat, the diaphragm (solar plexus), and the groin.
+
+Please save OUPD’s contact information in your phone.
+NORMAN campus:  For non-emergencies call (405) 325-1717. For emergencies call (405) 325-1911 or dial 911.
+TULSA campus:  For non-emergencies call (918) 660-3900. For emergencies call (918) 660-3333 or dial 911.
+
+## Fire Alarm/General Emergency 
+If you receive an OU Alert that there is danger inside or near the building, or the fire alarm inside the building activates: 
+- LEAVE the building. Do not use the elevators.
+- KNOW at least two building exits
+- ASSIST those that may need help
+- PROCEED to the emergency assembly area 
+- ONCE safely outside, NOTIFY first responders of anyone that may still be inside building due to mobility issues.
+- WAIT for official notice before attempting to re-enter the building.
+[OU Fire Safety on Campus](https://vimeo.com/125093634) 
+
+### Extra Credits (up to 3%)
+Send the proof of completion of the Student Reflection Survey to receive extra credits. 
 
 ## Use of AI
-
 In this course, students are permitted to use AI-based tools (such as ChatGPT) on some assignments. The instructions for each assignment will include information about whether and how you may use AI-based tools to complete the assignment. All sources, including AI tools, must be properly cited. Detailed citation guidelines can be found at the [UW Law Library](https://lib.law.uw.edu/bluebook101/genai), [MIT Libraries](https://libguides.mit.edu/cite-AI-tools), and the [UMD Libraries](https://lib.guides.umd.edu/c.php?g=1340355&p=9896961). Using AI in ways inconsistent with the parameters above will be considered academic misconduct and subject to investigation.
 
 Please note that AI results can be biased and inaccurate. It is your responsibility to ensure that the information you use from AI is accurate. Additionally, pay attention to the privacy of your data. Many AI tools will incorporate and use any content you share, so be careful not to unintentionally share copyrighted materials, original work, or personal information.
@@ -208,17 +183,6 @@ According to the academic integrity requirements, we prohibit the use of AI-base
 You may use generative AI tools as you would use a human collaborator. This means that you may NOT directly ask generative AI tools for answers or copy solutions. You're required to acknowledge generative AI tools as collaborators and include a paragraph describing how you used the tool. The use of generative AI tools to substantially complete an assignment or exam (e.g., by directly copying) is prohibited and will result in honor code violations. We will be checking students' assignments to enforce this policy.
 
 
-## Disability Resources for Students (DRS)
-Your experience in this class is important to me. It is the policy and practice of the University of Washington to create inclusive and accessible learning environments consistent with federal and state law. If you have already established accommodations with [Disability Resources for Students (DRS)](https://depts.washington.edu/uwdrs/), please activate your accommodations via myDRS so we can further discuss.
 
-If you have not yet established services through DRS but have a temporary health condition or permanent disability that requires accommodations (conditions include but are not limited to mental health, attention-related, learning, vision, hearing, physical, or health impacts), contact DRS directly to set up an Access Plan. DRS facilitates the interactive process that establishes reasonable accommodations. 
-
-## Campus Safety
-
-Call SafeCampus at 206-685-7233 to anonymously discuss safety and well-being concerns for yourself or others. SafeCampus’s team of caring professionals will provide individualized support, while discussing short- and long-term solutions and connecting you with additional resources when requested.
-
-
-## Religious Accommodation Policy
-Washington state law requires that UW develop a policy for the accommodation of student absences or significant hardship due to reasons of faith or conscience, or for organized religious activities. The UW’s policy, including more information about how to request an accommodation, is available at the [Religious Accommodations Policy](https://registrar.washington.edu/staffandfaculty/religious-accommodations-policy/). Accommodations must be requested within the first two weeks of this course using the [Religious Accommodations Request form](https://registrar.washington.edu/students/religious-accommodations-request/).
 
 {% include course_footer.html %}
