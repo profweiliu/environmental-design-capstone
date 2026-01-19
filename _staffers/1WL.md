@@ -1,5 +1,5 @@
 ---
-name: Wei Liu (Instructor)
+name: Wei Liu
 role: Instructor
 email: wliu@ou.edu
 website: 
