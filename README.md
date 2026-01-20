@@ -40,7 +40,7 @@ Offered in partnership with the [Institute for Quality Communities (IQC)](https:
 --- 
 
 ## Schedules
-<a href="#recent"><i class="fa-solid fa-square-arrow-up-right" style="color: #000000;"></i> **Go to the recent section**.</a> This schedule is subject to change, and please check back regularly for updates. All readings and materials can be directly accessed via the links below, although some may require a OU NetID login. Please give us any anonymous suggestions about the lectures, discussion, design progress, or anything using the **[anonymous suggestions box](https://freesuggestionbox.com/pub/uzxbkym)**.
+<a href="#recent"><i class="fa-solid fa-square-arrow-up-right" style="color: #000000;"></i> **Go to the recent section**.</a> This schedule is subject to change, and please check back regularly for updates. All readings and materials can be directly accessed via the links below, although some may require a OU NetID login. Please give us any anonymous suggestions about the lectures, discussion, design progress, or anything using the **[anonymous suggestions box](https://qualtrics.ou.edu/jfe/form/SV_5hig0Xy10I0oad8)**.
 
 {% for module in site.modules %}
 {{ module }}
