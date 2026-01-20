@@ -7,4 +7,4 @@ title: Charrette
 # Charrette
 {:.no_toc}
 
-Detailed will be provided soon. 
+Details will be provided soon. 
