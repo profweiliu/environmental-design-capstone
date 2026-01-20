@@ -25,22 +25,16 @@ All groups should be prepared to **briefly present their findings** during class
 ### Group Tasks
 
 Each group will be responsible for **one** of the following research components:
-
 - **History of the Place**  
   Research the historical development of the study area across multiple dimensions (e.g., settlement patterns, economic development, transportation, and major transformations). Use concise narratives and relevant images to illustrate the evolution of the place.
-
 - **Basemap**  
   Create base maps for the study area. Right-of-way (R.O.W.) maps will be provided; however, your group is expected to produce clear, well-scaled maps that include key dimensions and spatial references.
-
 - **Socioeconomic Information**  
   Research demographic and socioeconomic conditions relevant to the study area. Use concise narratives supported by diagrams, infographics, or charts to communicate key findings.
-
 - **Environmental Context**  
   Conduct a virtual environmental audit using tools such as Google Street View. Use captured images and written descriptions to document existing environmental conditions, including streetscape character, shade, comfort, and potential constraints.
-
 - **Land Use & Activities**  
   Analyze existing land uses and activity patterns within and around the study area, with particular attention to how spaces are currently used throughout the day.
-
 - **Stakeholder Interview Preparation**  
   Develop a set of interview questions for community stakeholders. This group is responsible for reviewing findings from other groups and synthesizing key themes to inform the interview framework.
 
