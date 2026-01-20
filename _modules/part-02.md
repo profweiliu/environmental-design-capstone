@@ -21,7 +21,7 @@ Feb 9
 Feb 16
 : **From Framework to Design: Trade-offs, Tools, and Context** <br>
 *In this class, students will be introduced to the topic “From Framework to Design,” focusing on how multimodal corridor and complete streets principles are translated into context-sensitive design decisions. Students will then have the opportunity to meet virtually with project stakeholders for interviews and guided discussions, using their contextual summaries to ask targets questions and deepen their understanding of local priorities, constraints, and opportunities.* <br>
-: **REQUIRED**{: .readings .readings-required}[TBD1.](TBD){: .citation}  <br>
+: **REQUIRED**{: .readings .readings-required}[TBD.](TBD){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[TBD.](TBD){: .citation} <br>
 
 Feb 23
