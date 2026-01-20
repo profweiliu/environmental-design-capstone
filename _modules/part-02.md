@@ -7,8 +7,9 @@ title: Module 2 - Multimodal Corridors & Complete Streets
 Feb 2
 : **Why Multimodal Corridors** <br>
 *In this class, students will be introduced the concept of multimodal corridors and to the final project study site. Students will conduct a virtual environmental audit to evaluate existing corridor conditions, including mobility, land use, safety, and surrounding context. Based on this audit, students will develop a concise context summary that identifies key opportunities, constraints, and questions to inform subsequent design work.* <br>
-: **REQUIRED**{: .readings .readings-required}[TBD.](TBD){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
+: **REQUIRED**{: .readings .readings-required}[Chapter 1, TRB. (2011). Reinventing the Urban Interstate: A New Paradigm for Multimodal Corridors](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDfhRsv-Dj4SaPKHVO95JZrASYbeW0cPCO9EQBdKzjoVmY?e=J7sjzp){: .citation}  <br>
+**Optional**{: .readings .readings-optional }[Chapter 24, Moudon. (1987). Public Streets for Public Use](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAgfYRmmfqVT4LeO9XmJyrKATMF-Ddvd_EhAZ5IhV09VU0?e=6MpP3M){: .citation}  <br>
+**Optional**{: .readings .readings-optional }[Chapter 2, TRB. (2011). Reinventing the Urban Interstate: A New Paradigm for Multimodal Corridors](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDfhRsv-Dj4SaPKHVO95JZrASYbeW0cPCO9EQBdKzjoVmY?e=03Gvy7){: .citation}  <br>
 
 Feb 9
 : **Why Complete Streets** <br>
