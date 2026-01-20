@@ -22,8 +22,6 @@ Submissions should be in Word or a compatible format. Quality is more important 
 
 All groups should be prepared to **briefly present their findings** during class on February 9.
 
----
-
 ### Group Tasks
 
 Each group will be responsible for **one** of the following research components:
@@ -46,9 +44,11 @@ Each group will be responsible for **one** of the following research components:
 - **Stakeholder Interview Preparation**  
   Develop a set of interview questions for community stakeholders. This group is responsible for reviewing findings from other groups and synthesizing key themes to inform the interview framework.
 
----
-
 ### Submission Deadline
 
 **Assignment 1 is due on Monday, February 9 at 12:00 PM (noon).**  
 The **Stakeholder Interview Preparation group** must submit their work **by 11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other groups.
+
+---
+
+<!--# Assignment 2: TBD-->
