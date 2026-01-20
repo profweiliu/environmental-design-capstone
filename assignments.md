@@ -12,7 +12,7 @@ For group assignments, one submission per group is required. Submitted work will
 
 ---
 
-## Assignment 1: Preliminary Research (6 Points)
+## Assignment 1: Preliminary Research
 
 On February 2, you will be introduced to the **final project** for this course. **Assignment 1** serves as the preliminary research phase, intended to help the class understand the project context and prepare for upcoming activities. 
 
