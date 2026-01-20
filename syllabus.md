@@ -26,7 +26,7 @@ description: Syllabus.
 ## Overview
 Urban and rural communities alike are facing increasing challenges related to mobility, safety, and equitable access to opportunity. Aging transportation infrastructure, auto-oriented development patterns, and changing demographic and economic conditions have intensified the need for more integrated, context-sensitive approaches to corridor design. Multimodal corridors and complete streets have emerged as critical frameworks for rethinking how transportation systems can support community health, environmental sustainability, and long-term economic vitality. As these challenges become more complex, designers are increasingly called upon to work collaboratively, engage communities directly, and translate interdisciplinary knowledge into actionable, real-world solutions. 
 
-This course is a 3-credit Environmental Design Capstone Studio focused on the planning and design of multimodal corridors and complete streets as critical infrastructure for community health, mobility, and economic vitality. Framed as a studio-based learning experience, the course integrates conceptual foundations, applied design methods, and real-world engagement. 
+This course focuses on the transformation of community vehehicular-dominanted streets into multimodal corridors and complete streets as critical infrastructure for community health, mobility, and economic vitality. Framed as a studio-based learning experience, the course integrates conceptual foundations, applied design methods, and real-world engagement. 
 
 During the semester, students will explore the fundamentals of multimodal corridor design and apply this knowledge to develop design recommendations for a local community in Oklahoma. The course emphasizes experiential learning through collaboration with community partners, field-based inquiry, and iterative design development. 
 
@@ -38,17 +38,18 @@ By the end of the course, students will have developed a comprehensive understan
 ## Learning Outcomes 
 After successfully completing this course, students will be able to:
 
-1. Explain the theory, purpose, and professional relevance of multimodal corridors and complete streets, including their roles in mobility, safety, land use integration, and environmental performance.
-2. Analyze transportation corridors at multiple scales by evaluating transportation systems, land use patterns, social context, and environmental conditions, with particular attention to rural and small-community settings.
-3. Apply multimodal corridor and complete streets principles to real-world contexts by developing context-sensitive, actionable design strategies that respond to identified community needs.
-4. Translate planning and design concepts into clear, implementable design recommendations appropriate for professional and community-facing settings.
-5. Collaborate effectively within a charrette-based design environment, demonstrating interdisciplinary thinking, time-intensive problem solving, and the ability to synthesize diverse inputs into coherent design outcomes.
-6. Engage constructively with community stakeholders and external experts by identifying challenges, interpreting local knowledge, and integrating stakeholder perspectives into design proposals.
-7. Communicate professionally through drawings, diagrams, verbal presentations, peer feedback, and written materials appropriate to academic, professional, and public audiences.
+1. Explain the fundamental principles and professional relevance of multimodal corridors and complete streets, including their roles in mobility, safety, public health, and sustainability.
+2. Analyze corridor sites and community contexts through research and community engagement, integrating various factors with particular attention to rural and small-community settings.
+3. Translate findings and community input into applied design concepts, developing context-sensitive strategies that respond to identified mobility and access challenges.
+4. Develop and communicate actionable design solutions through drawings, diagrams, verbal presentations, and written materials appropriate for professional and community-facing audiences.
+5. Collaborate effectively in team-based and charrette-driven design processes, demonstrating interdisciplinary thinking, time-intensive problem solving, and the ability to synthesize diverse inputs into coherent design outcomes.
+6. Gain real-world professional experience through applied projects, including working with community partners and external experts, and engaging in collaborative design workflows reflective of contemporary planning and urban design practice.
 
 
 
 ## Texts and Materials 
+
+All required and optional readings are listed in the course schedule and can be accessed from the course website.
 
 - **Required readings** are identified for each class and should be completed as preparation before coming to class.
 - **Optional readings** are useful for the class topics, and are encouraged to read them before the class. 
@@ -85,7 +86,7 @@ After successfully completing this course, students will be able to:
 Note: ^Grades count toward the midterm grade. 
 
 ### Extra Credits (3 Points)
-Submit proof of completion of the Student Reflection Survey to receive up to 3 extra credit points. 
+Submit proof of completion of the Student Reflection Survey to receive 3 extra credit points. 
 
 ## Grading Scale
 **A = 90-100 Points (Excellent).** Work exceeds criteria of quality, creativity, and criticality. Collaboration among teammates, where required, is exemplary. Content exhibits thoroughness and rigor. Craft is extremely high. Project shows exceptional innovation and evolution. <br>
@@ -96,8 +97,16 @@ Submit proof of completion of the Student Reflection Survey to receive up to 3 e
 
 Note: At the University of Oklahoma, letter grades like A–, B+, C+, D+ are not used in official grading; instead, the grades are full letter grades only, such as A, B, C, D, and F. Rounding will apply only to the final cumulative course grade, not to individual assignments or segments. A final grade of 89.0 or higher will be rounded up to 90 and recorded as an A. The same rule applies to other grade cutoffs: 79.0 or higher will be rounded up to 80 (B), 69.0 or higher to 70 (C), and 59.0 or higher to 60 (D). Grades below this threshold will not be rounded in multiple steps (for example, a final grade of 88.7 will remain an 89 and will not be rounded again to 90). This rounding policy is final, and no further adjustments or exceptions will be made. 
 
-## Participation 
-This course is structured around active participation, including in-class discussion, collaborative work, pin-up reviews, design progress critiques, and peer feedback. Consistent in-person attendance is therefore essential to the success of both the individual student and the class as a whole. Students are allowed two (2) absences over the course of the semester. Each additional absence beyond the two allowed will result a deduction to the student’s participation grade. Participation in the charrette session is mandatory. The charrette is a core component of the course and is essential to meeting the learning objectives. An absence from the charrette may result in a significant penalty and may jeopardize successful completion of the course. Any anticipated conflict must be discussed with the professor in advance. Design progress reviews are critical instructional moments. Missing a scheduled review or critique counts as two absences. Students are responsible for contacting a classmate to obtain notes or information from any missed session and completing all missed work. Attendance, engagement, preparedness, and constructive feedback to peers are all considered when evaluating class participation. 
+## Course Expectations
+
+### Participation and Attendance
+Active participation and engagement are essential to the learning objectives of this course. Students are expected to attend class regularly and contribute to discussions and collaborative activities. Students are permitted up to **two (2)** absences over the course of the semester, **excluding the design charrette**. Each additional absence beyond the allowed two will result in a 1-point deduction from the participation grade per absence. **Participation in the design charrette is mandatory.** Absence from the charrette may result in a significant penalty and may jeopardize successful completion of the course. Any anticipated conflict must be discussed with the instructor in advance.
+
+### Design Progress and Materials
+Design Progress sessions are primarily structured as in-class time for creative and collaborative work. Students are expected to come prepared with basic design supplies and tools, such as paper, pens, markers, iPads, or laptops, whichever tools they feel most comfortable using to communicate design ideas. **No prior design experience or specialized skill set is required.** However, students are expected to actively learn and apply design fundamentals throughout the semester and to use computationally aided tools as appropriate to develop and present final project deliverables.
+
+### Collaboration and Professional Conduct
+This course incorporates both independent work and group-based collaboration. Students are expected to be **responsible, respectful, and professional** in their interactions with peers, both in the classroom and in group project settings. Project groups will be formed during class in the first week of the semester. All group members are expected to contribute equitably and to communicate proactively throughout the project timeline.
 
 ## Additional Support for Learning
 

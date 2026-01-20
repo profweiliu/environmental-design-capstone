@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EnD 3993, Spring 2026
+title: EnD 4993, Spring 2026
 tagline: Environmental Design Capstone 
 description: Course Website for EnD 4994 Environmental Design Capstone at the University of Oklahoma. 
 author: Dr. Wei Liu
