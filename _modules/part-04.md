@@ -26,8 +26,8 @@ Apr 20
 Apr 27
 : **Special Topic: Environmental Design in the AI Era & Design Progress** <br>
 *In this class, students will be introduced the state-of-the-art AI-enabled tools and emerging trends in environmental design. The course emphasizes how these technologies are shaping contemporary design practice, analysis, and decision-making. Students will also be encouraged to critically evaluate the opportunities and limitations of AI in environmental design contexts.* <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
-**Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
+: **REQUIRED**{: .readings .readings-required}[TBD.](TBD){: .citation}  <br>
+**Optional**{: .readings .readings-optional }[TBD.](TBD){: .citation}  <br>
 
 May 4
 : **ASSIGNMENT 6 DUE AT NOON**{: .label .label-red } <br>
