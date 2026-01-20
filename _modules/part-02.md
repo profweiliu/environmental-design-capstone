@@ -14,7 +14,7 @@ Feb 9
 : **Why Complete Streets** <br>
 : **ASSIGNMENT 1 DUE AT NOON**{: .label .label-red } 
   : [Assignment Instruction]({{ site.baseurl }}/assignments/##Assignment 1: Preliminary Research) <br>
-*In this class, students will be introduced to the concept of complete streets and their role in creating safe, accessible, and context-sensitive transportation environments. Students will then be split into groups to discuss their preliminary findings and identify the most compelling issues and challenges affecting the final project site. These discussions will help refine the project focus and inform subsequent design strategies.* <br>
+: *In this class, students will be introduced to the concept of complete streets and their role in creating safe, accessible, and context-sensitive transportation environments. Students will then be split into groups to discuss their preliminary findings and identify the most compelling issues and challenges affecting the final project site. These discussions will help refine the project focus and inform subsequent design strategies.* <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 1, Urbanism in the Age of Climate Change. Peter Calthorpe. 2011.](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBXfLPId84tRq7bRTLjzE66Aa1mU_nwesRrBX9l5Hdsw78?e=AYlDxF){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[TBD.](profweiliu.com){: .citation}  <br>
 
