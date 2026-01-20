@@ -41,7 +41,7 @@ Each group will be responsible for **one** of the following research components:
 ### Submission Deadline
 
 Assignment 1 is due on **Monday, February 9 at 12:00 PM (noon)**.  
-The **Stakeholder Interview Preparation** group must submit their work by **11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other groups.
+The **Stakeholder Interview Preparation** group could submit their work by **11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other groups.
 
 ---
 
