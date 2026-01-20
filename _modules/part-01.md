@@ -10,6 +10,7 @@ Jan 19
 
 Jan 26
 : **Course Overview** 
+: **PRE-CLASS SURVEY DUE THIS FRIDAY**{: .label .label-red }
   : [Pre-class Survey](https://qualtrics.ou.edu/jfe/form/SV_6PSt9mSOpZSm7BQ)
 
 
