@@ -14,6 +14,7 @@ This final project engages students in the conceptual design of 5th Avenue and 6
 The existing built environment consists of streets with intermittent sidewalks that pass through predominantly residential areas while connecting to schools, parks, downtown, and other high-use public facilities. The proposed project focuses on the refinement and reconfiguration of two existing city street corridors. No buildings will be constructed or rehabilitated; rather, the project concentrates on enhancing the public right-of-way through streetscape improvements that significantly upgrade safety, accessibility, and overall corridor quality.
 
 ## Community Goals
+
 The objective of this project is to transform two underutilized one-way, two-lane streets into a complete street network (reconfigured as one-lane, one-way streets with protected bike lanes) providing safe, accessible, and pedestrian- and bicycle-friendly connections among Southeastern Oklahoma State University, Historic Downtown Durant, nearby schools, parks, community facilities, and surrounding neighborhoods. By reallocating roadway space for protected bicycle infrastructure and improved sidewalks, the project supports users of all ages and abilities, increases active transportation, enhances safety and public health, strengthens community identity, boosts economic vitality, and reduces household reliance on automobiles. 
 
 ## Deliverable
@@ -58,4 +59,4 @@ To date, DSC has presented 18 educational programs, convened high-level conversa
 
 DSC is partnering with another non-profit organization, Durant Trails and Open Space, and several other organizations to expand the trails network and create a protected bike thoroughfare to connect downtown with the university and historic neighborhoods with schools and parks.
 
-*(Community Snapshot Source: City of Durant 2025-2026 IQC Community Assistance Project RFP)*
+*(Community Snapshot Source: Heart of Durant Community Connection 2025-2026 IQC Community Assistance Project RFP)*
