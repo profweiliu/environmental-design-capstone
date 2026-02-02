@@ -19,14 +19,12 @@ The objective of this project is to transform two underutilized one-way, two-lan
 ## Deliverable
 
 By the end of the project, student teams will produce a set of integrated design recommendations that include:
-- **An Executive Summary** (200 words max.)
-- **A Resilience Statement** (50 words max.) clearly articulating how the proposal supports community resilience
-- **An Existing Condition Illustration**, including visual documentation and narrative analysis
-- **A Rendered Proposed Site Plan**, including adjacent streets and alleys (8.5 in. x 8.5 in. full-page layout)
-- **A Programming Diagram**, illustrating permanent, seasonal, and flexible uses (8.5 in. x 8.5 in. full-page layout)
-- **A Matrix of Resilient Design and Planning Strategies**, explicitly mapping recommendations to the community goals (matrix template will be provided). 
-
-- A Complete Street Masterplan
+- **Executive Summary** outlining project goals, design rationale, and key outcomes (200 words max.)
+- **Context Diagram** illustrating how the study area connects to adjacent neighborhoods and destinations
+- **Complete Street Master Plan** for 5th Avenue and 6th Avenue (sections on West Main Street and University Boulevard are included)
+- **Detailed Dimensional Perspective Section Drawings** for each complete street typology proposed in the plan
+- At least two "Before" images and corresponding proposed-condition **Renderings**
+- At least two **Enlarged Drawings** illustrating special street treatments (e.g., intersections, crossings, gateways, or curb extensions)
 
 ## Evaluation Rubric Statement
 
@@ -34,7 +32,7 @@ While grounded in a real-world community context, proposals are evaluated based 
 
 ## Project Groups
 
-Students will be organized into two groups, with seven students in each group. Prior to group formation, students will complete a brief [survey](https://qualtrics.ou.edu/jfe/form/SV_4HGn4kYh5dWGGDc) assessing their skill sets and prior experience. Based on the survey results, the instructor will form the two groups to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
+Students will be organized into three groups, with nine students in each group. Prior to group formation, students will complete a brief [survey](https://qualtrics.ou.edu/jfe/form/SV_6PSt9mSOpZSm7BQ) assessing their skill sets and prior experience. Based on the survey results, the instructor will form the three groups to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
 
 ---
 
