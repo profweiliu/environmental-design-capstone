@@ -46,7 +46,7 @@ The **Stakeholder Interview Preparation** group could submit their work by **11:
 ### Group List
 
 **History of the Place** | Quentin Goforth | Elissa Halligan | Fancy Jaja | Chris Rodriguez Suarez |
-**Basemap |Nick Guizol** | Roman Johnson | Cameron Lopez | Russan Missouri |
+**Basemap** |Nick Guizol | Roman Johnson | Cameron Lopez | Russan Missouri |
 **Socioeconomic Information** | Hayden Harp | Adam Lodrigueza | Molly Strobel | Tao Wang |
 **Environmental Context** | Sana Arshad | Gilbert Magana | Vanessa Nunez | Luke Salisbury | Caleb Townsend
 **Land Use & Activities** | Noah Batson | Christian Forbes | Elena Hobbs | Sophia Smith | Ayden Trull
