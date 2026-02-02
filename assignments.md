@@ -43,6 +43,15 @@ Each group will be responsible for **one** of the following research components:
 Assignment 1 is due on **Monday, February 9 at 12:00 PM (noon)**.  
 The **Stakeholder Interview Preparation** group could submit their work by **11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other groups.
 
+### Group List
+
+**History of the Place** | Quentin Goforth | Elissa Halligan | Fancy Jaja | Chris Rodriguez Suarez |
+**Basemap |Nick Guizol** | Roman Johnson | Cameron Lopez | Russan Missouri |
+**Socioeconomic Information** | Hayden Harp | Adam Lodrigueza | Molly Strobel | Tao Wang |
+**Environmental Context** | Sana Arshad | Gilbert Magana | Vanessa Nunez | Luke Salisbury | Caleb Townsend
+**Land Use & Activities** | Noah Batson | Christian Forbes | Elena Hobbs | Sophia Smith | Ayden Trull
+**Stakeholder Interview Preparation** | Allison Jackson | Layne Jarrett | Elaina Maurer | Mason Queen | Chloe Vincent
+
 ---
 
 <!--# Assignment 2: TBD-->
