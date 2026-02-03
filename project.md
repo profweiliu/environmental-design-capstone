@@ -57,6 +57,6 @@ In 2022, a small group of individuals interested in making Durant cleaner, green
 
 To date, DSC has presented 18 educational programs, convened high-level conversations with elected officials and community leaders, hosted two Earth Day festivals in partnership with almost 20 organizations, and provided survey data and community support on key city initiatives, including curbside recycling, creating more ped/bike routes and trails planting urban trees, and, cleaning up the towns. DSC has strategically promoted these four primary objectives and annually assesses its progress. DSC’s uniqueness and strength come from its collaboration with other nonprofit organizations and its focus on community engagement and education.
 
-DSC is partnering with another non-profit organization, Durant Trails and Open Space, and several other organizations to expand the trails network and create a protected bike thoroughfare to connect downtown with the university and historic neighborhoods with schools and parks.
+DSC is partnering with another non-profit organization, Durant Trails and Open Space, and several other organizations to expand the trails network and create a protected bike thoroughfare to connect downtown with the university and historic neighborhoods with schools and parks
 
 *(Community Snapshot Source: Heart of Durant Community Connection 2025-2026 IQC Community Assistance Project RFP)*
