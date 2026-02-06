@@ -17,8 +17,8 @@ Feb 9
 : **ASSIGNMENT 1 DUE AT NOON**{: .label .label-red } 
   : [Assignment Instruction]({{ site.baseurl }}/assignments/##Assignment 1: Preliminary Research) <br>
 : *In this class, students will be introduced to the concept of complete streets and their role in creating safe, accessible, and context-sensitive transportation environments. Students will then be split into groups to discuss their preliminary findings and identify the most compelling issues and challenges affecting the final project site. These discussions will help refine the project focus and inform subsequent design strategies.* <br>
-: **REQUIRED**{: .readings .readings-required}[Chapter 5, Moudon. (1987). Public Streets for Public Use](TBD){: .citation}  <br>
-**REQUIRED**{: .readings .readings-required}[Chapter 1, Dover & Massengale. (2014). Street Design: The Secret to Great Cities and Towns](TBD){: .citation}  <br>
+: **REQUIRED**{: .readings .readings-required}[Chapter 5, Moudon. (1987). Public Streets for Public Use](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDbFraefJ5eTZg5cddNKijFAVB87-ehKetfLgy5IBFbTis?e=0lmb9s){: .citation}  <br>
+**REQUIRED**{: .readings .readings-required}[Chapter 1, Dover & Massengale. (2014). Street Design: The Secret to Great Cities and Towns](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBDYJwVEWevQLkIXMV4DiMXAXG5k-qeaqiRu65WSeRz6ac?e=FvO2gU){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[Smart Growth America. (2023). The Complete Streets Policy Framework](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCd3h4AOosyT5xmFGPWRXl9AYkM5hKLS4mKq3JJPE96bEg?e=Kf1shw){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[MCDOT. (2024). Montgomery County Complete Streets Design Guide](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQD55B35D72cS5qSFBZjWRPuAcbSZIGOkiOn-p-GW8_wy4Q?e=DbgrFS){: .citation}  <br>
 
