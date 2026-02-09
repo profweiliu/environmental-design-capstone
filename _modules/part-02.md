@@ -14,6 +14,7 @@ Feb 2
 
 Feb 9
 : **Why Complete Streets** <br>
+  : [Slides](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCqn18tDJEIRJBE1aYQOqdQAdJKmioQSsuuZPnpa9NAfYA?e=cfnhAW) <br>
 : **ASSIGNMENT 1 DUE AT NOON**{: .label .label-red } 
   : [Assignment Instruction]({{ site.baseurl }}/assignments/##Assignment 1: Preliminary Research) <br>
 : *In this class, students will be introduced to the concept of complete streets and their role in creating safe, accessible, and context-sensitive transportation environments. Students will then be split into groups to discuss their preliminary findings and identify the most compelling issues and challenges affecting the final project site. These discussions will help refine the project focus and inform subsequent design strategies.* <br>
