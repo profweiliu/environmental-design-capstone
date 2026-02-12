@@ -61,7 +61,7 @@ DSC is partnering with another non-profit organization, Durant Trails and Open S
 
 *(Community Snapshot Source: Heart of Durant Community Connection 2025-2026 IQC Community Assistance Project RFP)*
 
-### Preliminary Findings 
+### Student Preliminary Research Findings 
 
 Access to [**History of the Place**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmCU8Z6NtlSqSaSUZEyeeOAUqUbHr3y8o2FQTk7sbvRnE?e=GMc4xi)<br>
 Access to [**Basemap**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAhfY92wrLjQYqq4XeZOb1EAVZRoNPWjc1HWy9QlUg2n9E?e=LVWDnr)<br>
