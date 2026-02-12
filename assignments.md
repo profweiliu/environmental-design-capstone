@@ -54,15 +54,6 @@ Each student will be responsible for **one** of the following research component
 Assignment 1 is due on **Monday, February 9 at 11:59 AM (noon)**.  
 The **Stakeholder Interview Preparation** group could submit their work by **11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other students' work.
 
-### Preliminary Findings 
-
-Access to [**History of the Place**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAmCU8Z6NtlSqSaSUZEyeeOAUqUbHr3y8o2FQTk7sbvRnE?e=GMc4xi)<br>
-Access to [**Basemap**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAhfY92wrLjQYqq4XeZOb1EAVZRoNPWjc1HWy9QlUg2n9E?e=LVWDnr)<br>
-Access to [**Socioeconomic Information**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCb6dZEby27R6oCsrMCiGXuAdhqxOrDH6IT2TCPfkztRDQ?e=8qEaU8)<br>
-Access to [**Hnvironmental Context**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDIPGqLRuaKTKs2ULMcsnlgAd_LdoeDWttRbY_eFpV6-Tk?e=vgVQe5)<br>
-Access to [**Land Use & Activities**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAEhawEEcAgSqtm_-SsRgWCAeiwcTfNLgppmPXGq31Vm0M?e=goJ8rt)<br>
-Access to [**Stakeholder Interview Preparation**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAdrrvTcGgpSaFNv9n1AzG0AahBqyBec5X5cK6wKKRx8Hg?e=4ESlKO)
-
 ---
 
 <!--# Assignment 2: TBD-->
