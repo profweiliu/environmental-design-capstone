@@ -20,11 +20,9 @@ For this assignment, the class will be divided into task-based groups of **4–5
 
 There are six tasks. Each student will be assigned one task. Students assigned to the same task are encouraged to coordinate and discuss how they plan to approach the work, identify sub-tasks. This is not a group project, each student is responsible for producing and submitting their own individual work. 
 
-Groupings apply only to this assignment; groups may change for future tasks.
+Groupings apply only to this assignment; groups may change for future tasks. 
 
-Submissions should be in Word or a compatible format. Quality is more important than length.  
-
-All students should be prepared to briefly present their findings during class on February 9.
+All students should be prepared to briefly present their findings during class on February 9. Your work will be shared with the class as a reference for the project. 
 
 ### Tasks
 
@@ -55,6 +53,15 @@ Each student will be responsible for **one** of the following research component
 
 Assignment 1 is due on **Monday, February 9 at 11:59 AM (noon)**.  
 The **Stakeholder Interview Preparation** group could submit their work by **11:59 PM on February 9**, as this task requires reviewing and synthesizing findings from all other students' work.
+
+### Preliminary Findings 
+
+Access to [**History of the Place**]()
+Access to [**Basemap**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAhfY92wrLjQYqq4XeZOb1EAVZRoNPWjc1HWy9QlUg2n9E?e=LVWDnr)
+Access to [**Socioeconomic Information**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCb6dZEby27R6oCsrMCiGXuAdhqxOrDH6IT2TCPfkztRDQ?e=8qEaU8)
+Access to [**Hnvironmental Context**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDIPGqLRuaKTKs2ULMcsnlgAd_LdoeDWttRbY_eFpV6-Tk?e=vgVQe5)
+Access to [**Land Use & Activities**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAEhawEEcAgSqtm_-SsRgWCAeiwcTfNLgppmPXGq31Vm0M?e=goJ8rt)
+Access to [**Stakeholder Interview Preparation**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAdrrvTcGgpSaFNv9n1AzG0AahBqyBec5X5cK6wKKRx8Hg?e=4ESlKO)
 
 ---
 
