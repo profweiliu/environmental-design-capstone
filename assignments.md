@@ -12,7 +12,7 @@ For group assignments, one submission per group is required. Submitted work will
 
 ---
 
-## Assignment 1: Preliminary Research
+## Assignment 1 Preliminary Research
 
 On February 2, you will be introduced to the final project for this course. This assignment serves as the preliminary research phase, intended to help the class understand the project context and prepare for upcoming activities. 
 
@@ -56,7 +56,7 @@ The **Stakeholder Interview Preparation** group could submit their work by **11:
 
 ---
 
-## Assignment 2: Complete Streets Brief
+## Assignment 2 Complete Streets Brief
 
 Identify a street you are familiar with that is currently automobile-dominant in design and use. This could be a street you experience regularly near campus or one from your hometown. Using this street as a case study, develop a **Complete Streets Communication Brief Sheet**.
 
