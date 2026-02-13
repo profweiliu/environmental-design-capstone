@@ -75,6 +75,7 @@ Your brief sheet must include the following elements:
 - Individual work
 - File format: PDF
 - Max. length: 2 pages
+- Refer to the visual style and layout of the required readings (Complete Streets Case Studies)
 
 ### Submission Deadline
 
