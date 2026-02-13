@@ -56,7 +56,7 @@ The **Stakeholder Interview Preparation** group could submit their work by **11:
 
 ---
 
-## Assignment 2: Complete Streets Case Study
+## Assignment 2: Complete Streets Brief
 
 Identify a street you are familiar with that is currently automobile-dominant in design and use. This could be a street you experience regularly near campus or one from your hometown. Using this street as a case study, develop a **Complete Streets communication Brief Sheet**.
 
