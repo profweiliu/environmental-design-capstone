@@ -64,7 +64,7 @@ Your brief sheet must include the following elements:
 - Project Title 
 - Basic Project Information such as location and street length
 - Problem Statement (150 words max.)
-- Modal Focus Checklist (Include a checkbox chart addressing: Pedestrians, bicycles, micromobility users, transit users, freight providers, motorists)
+- Modal Focus Checklist (Include a checkbox chart addressing: pedestrians, bicycles, micromobility users, transit users, freight providers, motorists)
 - Project Context (150 words max.)
 - Project Improvements (Two-column table format: problem and description of improvement)
 - One image showing the existing condition 
