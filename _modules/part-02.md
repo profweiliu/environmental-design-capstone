@@ -16,7 +16,7 @@ Feb 9
 : **Why Complete Streets** <br>
   : [Slides](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCqn18tDJEIRJBE1aYQOqdQAdJKmioQSsuuZPnpa9NAfYA?e=cfnhAW) <br>
 : **ASSIGNMENT 1 DUE AT NOON**{: .label .label-red } 
-  : [Assignment Instruction]({{ site.baseurl }}/assignments/##assignment-1-preliminary-research) <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-1-preliminary-research) <br>
 : *In this class, students will be introduced to the concept of complete streets and their role in creating safe, accessible, and context-sensitive transportation environments. Students will then be split into groups to discuss their preliminary findings and identify the most compelling issues and challenges affecting the final project site. These discussions will help refine the project focus and inform subsequent design strategies.* <br>
 : **REQUIRED**{: .readings .readings-required}[Chapter 5, Moudon. (1987). Public Streets for Public Use](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDbFraefJ5eTZg5cddNKijFAVB87-ehKetfLgy5IBFbTis?e=0lmb9s){: .citation}  <br>
 **REQUIRED**{: .readings .readings-required}[Chapter 1, Dover & Massengale. (2014). Street Design: The Secret to Great Cities and Towns](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQBDYJwVEWevQLkIXMV4DiMXAXG5k-qeaqiRu65WSeRz6ac?e=FvO2gU){: .citation}  <br>
@@ -32,7 +32,7 @@ Feb 23
 : **Case Studies and Lessons Learned** <br>
 *In this class, students will be introduced to multimodal corridor and complete street case studies presented by the course instructor and by students. Through guided discussion, the class will collectively reflect on the lessons learned from these precedents, focusing on design strategies and outcomes relevant to the final project.* <br>
 : **ASSIGNMENT 2 DUE AT NOON**{: .label .label-red } <br>
-  : [Assignment Instruction]({{ site.baseurl }}/assignments/##assignment-2-complete-streets-brief) <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-2-complete-streets-brief) <br>
 : **REQUIRED**{: .readings .readings-required}[Complete Streets Case Studies](https://highways.dot.gov/complete-streets/complete-streets-case-studies){: .citation}  <br>
 **REQUIRED**{: .readings .readings-optional }[Complete streets: What went wrong?](https://www.cnu.org/publicsquare/2024/11/05/complete-streets-what-went-wrong){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[Complete Streets as a Redevelopment Strategy](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQDQYKpprpVqRb_yDnpS8_rBAWTTW-oGvJXTdKWGPXY414w?e=ncWsBP){: .citation}  <br>
