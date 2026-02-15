@@ -3,15 +3,6 @@ layout: minimal
 title: Charrette
 ---
 
-{% include course_header.html %}
-# Charrette
-{:.no_toc}
-
----
-layout: minimal
-title: Charrette
----
-
 <button id="toc-toggle"><i class="fa-solid fa-bars"></i></button>
 1. TOC
 {:toc}
