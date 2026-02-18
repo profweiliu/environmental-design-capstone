@@ -235,7 +235,7 @@ Goals for this charrette include:
   <tr>
     <td></td>
     <td>
-      Stop designing, teams exchange proposals and conduct a peer review using the City Resilience Framework as a checklist to identify missing components, conflicts, or weak integration across resilience goals. For example, “Does this proposal address *Goal 5: Sustainable Waste & Resource Management*?” or “Does *Goal 14: Sustainable Transport & Active Mobility* create conflicts across scales?”
+      Stop designing, teams exchange proposals and conduct a peer review using the City Resilience Framework as a checklist to identify missing components, conflicts, or weak integration across resilience goals. For example, “Does this proposal address Goal 5: Sustainable Waste & Resource Management?” or “Does Goal 14: Sustainable Transport & Active Mobility create conflicts across scales?”
     </td>
   </tr>
     <tr>
