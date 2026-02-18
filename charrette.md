@@ -199,7 +199,7 @@ Goals for this charrette include:
   <tr>
     <td></td>
     <td>
-      Students reprganize into design teams of approximately eleven members. Each team includes at least one expert from each CRF goal developed on Day 1. 
+      Students reorganize into design teams of approximately eleven members. Each team includes at least one expert from each CRF goal developed on Day 1. 
     </td>
   </tr>
     <tr>
