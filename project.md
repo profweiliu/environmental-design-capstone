@@ -77,6 +77,7 @@ DSC is partnering with another non-profit organization, Durant Trails and Open S
 [**Durant Master Trails Plan 2017**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQD_Vv3XeuA4R5oauVTb14ciAdJo1R2VkLzHHyPohUWSjx0?e=LxisWL) <br>
 [**Future Land Use Map**](https://www.durant.org/672/ENVISION-2040) <br>
 [**Durant Data Infographics**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgDXiB1b6Rl7TqTzEHKDD_yGAY9oOwteKKb9dKXJ3Vl1sXM?e=cODzkl)<br>
+[**Walking, Jogging, and Running Heat Map**](https://sooners-my.sharepoint.com/:i:/g/personal/wliu_ou_edu/IQCBAGdAE3wBTJ4smXB5yt9HAWxl_c_2wdB2bu0C5w6yIMg?e=zk4g4Q) 
 [**AARP Walk Audit, Durnat, Oklahoma**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQAWpBXUEXRPQJmyyj4VQWUVAWzMcwpmZKT2GJLibpXoRLs?e=3pA7qo) <br>
 [**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
 [**Bronco Logistics Unlimited Business Plan**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQBFajuua1mLTK-29IMypYHQASVHLhrJxBsKNyrRVMup0AE?e=dffbU8) <br>
