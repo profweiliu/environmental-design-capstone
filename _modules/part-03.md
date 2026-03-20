@@ -21,4 +21,5 @@ Mar 16
 Mar 23
 : **Charrette Replacement (No Class)** <br>
 : **ASSIGNMENT 3 DUE AT NOON**{: .label .label-red } <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-3-final-project-design-proposal) <br>
 *Class hours fulfilled during the charrette*
