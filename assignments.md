@@ -110,3 +110,34 @@ Identify any specific intersections or segments along the corridor that may requ
 Assignment 3 is due on **Monday, March 23 at 11:59 AM (noon)**.  
 
 ---
+
+## Assignment 4 Final Project Draft
+
+Working in groups, prepare a draft of your final project for the Durant corridor (5th & 6th Avenue). <br>
+Your submission should include: <br>
+1. Context Understanding
+- Key site conditions (land use, community character, constraints, opportunities)
+- Insights from the charrette and preliminary study
+2. Mobility Diagram
+- Overall circulation strategy
+- Movement of different users (vehicles, pedestrians, bikes, etc.)
+- Key connections across the corridor
+3. Special Nodes and/or Sections
+- Identify important intersections or segments
+- Propose targeted design strategies
+4. Streetscape Typology
+- Typical street sections or typologies
+- Include major elements (travel lanes, bike facilities, sidewalks, etc.)
+5. Representation Reference
+- Select images that represent how you plan to visualize and present your design
+- These should be street-level views and/or plan views
+
+### Submission Requirements
+- Group work
+- PDF 
+
+### Submission Deadline
+
+Assignment 4 is due on **Monday, April 6 at 11:59 AM (noon)**.  
+
+---
