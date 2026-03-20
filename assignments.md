@@ -104,6 +104,7 @@ Identify any specific intersections or segments along the corridor that may requ
 ### Submission Requirements
 - Individual work
 - 1 page (concise and clear)
+- Draft (work-in-progress)
 
 ### Submission Deadline
 
@@ -139,5 +140,20 @@ Your submission should include: <br>
 ### Submission Deadline
 
 Assignment 4 is due on **Monday, April 6 at 11:59 AM (noon)**.  
+
+---
+
+## Assignment 5 Final Project Draft Refinement
+
+Working in groups, revise and strengthen your previous draft of the Durant corridor project (5th & 6th Avenue). <br>
+
+### Submission Requirements
+- Group work
+- PDF 
+- Refined draft (more precise, but not final)
+
+### Submission Deadline
+
+Assignment 5 is due on **Monday, April 20 at 11:59 AM (noon)**.  
 
 ---
