@@ -82,3 +82,31 @@ Your brief sheet must include the following elements:
 Assignment 2 is due on **Monday, February 23 at 11:59 AM (noon)**.  
 
 ---
+
+## Assignment 3 Final Project Design Proposal
+
+Prepare a **one-page** proposal outlining your design recommendation for the streetscape of 5th and 6th Avenue in Durant.
+
+Your proposal should include:
+1. Streetscape Elements (Required)
+- Traffic lanes (number and/or width)
+- Bike lanes (width)
+- Sidewalks (width)
+- Green buffers/planting/furniture zones, if applicable (width)
+- On-street parking, if applicable (width)
+
+2. Special Design Areas (Optional but encouraged)
+Identify any specific intersections or segments along the corridor that may require special design treatment beyond your typical streetscape proposal.
+- Use street names to clearly define locations (e.g., intersection of 6th Ave & Elm St, or the segment between Elm St and Live Oak St on 6th Ave)
+- Briefly explain what makes this location unique, such as adjacent land uses, higher pedestrian activity, key destinations or nodes, and/or strong connections to surrounding neighborhoods
+- Propose targeted design interventions, such as special paving materials, public space features, and/or placemaking elements.
+
+### Submission Requirements
+- Individual work
+- 1 page (concise and clear)
+
+### Submission Deadline
+
+Assignment 3 is due on **Monday, February 23 at 11:59 AM (noon)**.  
+
+---
