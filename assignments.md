@@ -107,6 +107,6 @@ Identify any specific intersections or segments along the corridor that may requ
 
 ### Submission Deadline
 
-Assignment 3 is due on **Monday, February 23 at 11:59 AM (noon)**.  
+Assignment 3 is due on **Monday, March 23 at 11:59 AM (noon)**.  
 
 ---
