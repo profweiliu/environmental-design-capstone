@@ -11,6 +11,7 @@ Mar 30
 Apr 6
 : **Design Progress** <br>
 : **ASSIGNMENT 4 DUE AT NOON**{: .label .label-red } <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-4-final-project-draft) <br>
 *In this class, students will pin-up their work in progress and receive feedback from the instructor and peers. The session will emphasize constructive critique, iterative improvement, and collective learning to support continued development of the final project.* <br>
 
 Apr 13
@@ -21,6 +22,7 @@ Apr 13
 Apr 20
 : **Design Progress** <br>
 : **ASSIGNMENT 5 DUE AT NOON**{: .label .label-red } <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-5-final-project-draft-refinement) <br>
 *In this class, students will pin-up their work in progress and receive feedback from the instructor and peers. The session will emphasize constructive critique, iterative improvement, and collective learning to support continued development of the final project.* <br>
 
 Apr 27
