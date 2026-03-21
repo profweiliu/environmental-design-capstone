@@ -83,7 +83,7 @@ Assignment 2 is due on **Monday, February 23 at 11:59 AM (noon)**.
 
 ---
 
-## Assignment 3 Final Project Design Proposal
+## Assignment 3 Final Project Design Proposal (CANCELED)
 
 Prepare a **one-page** proposal outlining your design recommendation for the streetscape of 5th and 6th Avenue in Durant.
 
