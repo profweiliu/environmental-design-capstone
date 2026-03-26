@@ -12,8 +12,6 @@ description: Syllabus.
 # Syllabus
 {:.no_toc}
 
-<script type="module" src="{{ '/assets/js/chatbot.js' | relative_url }}"></script>
-
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
 {{ staffer }}
@@ -44,24 +42,12 @@ After successfully completing this course, students will be able to:
 5. Collaborate effectively in team-based and charrette-driven design processes, demonstrating interdisciplinary thinking, time-intensive problem solving, and the ability to synthesize diverse inputs into coherent design outcomes.
 6. Gain real-world professional experience through applied projects, including working with community partners and external experts, and engaging in collaborative design workflows reflective of contemporary planning and urban design practice.
 
-## Schedules 
+## Schedules
+<a href="#recent"><i class="fa-solid fa-square-arrow-up-right" style="color: #000000;"></i> **Go to the recent section**.</a> This schedule is subject to change, and please check back regularly for updates. All readings and materials can be directly accessed via the links below, although some may require a OU NetID login. Please give us any anonymous suggestions about the lectures, discussion, design progress, or anything using the **[anonymous suggestions box](https://qualtrics.ou.edu/jfe/form/SV_5hig0Xy10I0oad8)**.
 
----
-title: I - Introduction of the Course
----
-
-<h3 style="font-weight: bold;">I - Course Overview</h3>
-
-
-Jan 19
-: **M.L.K. Day (No Class)** <br>
-
-Jan 26
-: **Course Overview** 
-: **PRE-CLASS SURVEY DUE THIS FRIDAY**{: .label .label-red }
-  : [Pre-class Survey](https://qualtrics.ou.edu/jfe/form/SV_6PSt9mSOpZSm7BQ)
-
-
+{% for module in site.modules %}
+{{ module }}
+{% endfor %}
 
 ## Texts and Materials 
 
