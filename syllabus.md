@@ -45,6 +45,10 @@ After successfully completing this course, students will be able to:
 
 ## Schedules 
 
+---
+layout: default
+---
+
 <script type="module" src="{{ '/assets/js/chatbot.js' | relative_url }}"></script>
 
 ## Texts and Materials 
