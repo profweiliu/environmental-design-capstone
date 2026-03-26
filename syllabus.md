@@ -12,6 +12,7 @@ description: Syllabus.
 # Syllabus
 {:.no_toc}
 
+<script type="module" src="{{ '/assets/js/chatbot.js' | relative_url }}"></script>
 
 {% assign instructors = site.staffers | where: 'role', 'Instructor' %}
 {% for staffer in instructors %}
@@ -46,10 +47,21 @@ After successfully completing this course, students will be able to:
 ## Schedules 
 
 ---
-layout: default
+title: I - Introduction of the Course
 ---
 
-<script type="module" src="{{ '/assets/js/chatbot.js' | relative_url }}"></script>
+<h3 style="font-weight: bold;">I - Course Overview</h3>
+
+
+Jan 19
+: **M.L.K. Day (No Class)** <br>
+
+Jan 26
+: **Course Overview** 
+: **PRE-CLASS SURVEY DUE THIS FRIDAY**{: .label .label-red }
+  : [Pre-class Survey](https://qualtrics.ou.edu/jfe/form/SV_6PSt9mSOpZSm7BQ)
+
+
 
 ## Texts and Materials 
 
