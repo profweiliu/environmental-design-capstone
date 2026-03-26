@@ -43,7 +43,10 @@ After successfully completing this course, students will be able to:
 5. Collaborate effectively in team-based and charrette-driven design processes, demonstrating interdisciplinary thinking, time-intensive problem solving, and the ability to synthesize diverse inputs into coherent design outcomes.
 6. Gain real-world professional experience through applied projects, including working with community partners and external experts, and engaging in collaborative design workflows reflective of contemporary planning and urban design practice.
 
-
+## Schedules 
+{% raw %}
+<script type="module" src="{{ '/assets/js/chatbot.js' | relative_url }}"></script>
+{% endraw %}
 
 ## Texts and Materials 
 
