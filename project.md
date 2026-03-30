@@ -33,7 +33,14 @@ While grounded in a real-world community context, proposals are evaluated based 
 
 ## Project Groups
 
-Students will be organized into three groups, with nine students in each group. Prior to group formation, students will complete a brief [survey](https://qualtrics.ou.edu/jfe/form/SV_6PSt9mSOpZSm7BQ) assessing their skill sets and prior experience. Based on the survey results, the instructor will form the three groups to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
+Students will be organized into **six** groups, with four to five students in each group. Prior to group formation, students will complete a brief [survey](https://qualtrics.ou.edu/jfe/form/SV_6PSt9mSOpZSm7BQ) assessing their skill sets and prior experience. Based on the survey results, the instructor will form the groups to ensure a balanced and representative mix of backgrounds, skills, and perspectives within each team.
+
+**Group 1** | Sana Arshad | Elissa Halligan | Roman Johnson | Caleb Townsend |
+**Group 2** | Fancy Jaja | Gilbert Magana | Elaina Maurer | Ayden Trull | Tao Wang
+**Group 3** | Nick Guizol | Adam Lodrigueza | Sophia Smith | Chloe Vincent |
+**Group 4** | Christian Forbes | Quentin Goforth | Allison Jackson | Russan Missouri | Chris Rodriguez Suarez
+**Group 5** | Noah Batson | Cameron Lopez | Vanessa Nunez | Luke Salisbury | 
+**Group 6** | Hayden Harp | Elena Hobbs | Layne Jarrett | Mason Queen | Molly Strobel
 
 ---
 
