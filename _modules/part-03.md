@@ -19,3 +19,4 @@ Mar 16
 
 Mar 23
 : **Charrette Replacement (No Class)** <br>
+: **ASSIGNMENT 3 DUE AT NOON**{: .label .label-red } <br>
