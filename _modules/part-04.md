@@ -36,7 +36,7 @@ May 4
 : **Final Project Presentation** <br> 
 **Final Project Presentation DUE AT NOON**{: .label .label-red } <br> 
 *Time: 5 PM* <br> 
-*Location: TBD* <br> 
+*Location: Gould Hall 395* <br> 
 
 May 11
 : **Final Project Submission** <br>
