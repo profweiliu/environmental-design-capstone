@@ -16,7 +16,8 @@ Apr 6
 
 Apr 13
 : **Design Progress** <br>
-*In this class, students will work in groups on their final project, focusing on collaborative design development, analysis, and refinement. Class time will be used for teamwork.* <br> 
+*In this class, Peyton Steger will deliver a presentation on computer representation techniques, providing a practical tutorial to support your final project. During the second half of the class, you will have time to make progress on your computer representation and seek help particularly on technical and visualization-related questions.*<br> 
+*Location: Gould Hall B15 Computer Lab* <br>
 *Wei Liu is out for 2026 Main Street Now Conference (April 13-15).* <br> 
 
 Apr 20
