@@ -139,7 +139,7 @@ Your submission should include: <br>
 
 ### Submission Deadline
 
-Assignment 4 is due on **Monday, April 6 at 11:59 AM (noon)**.  
+Assignment 4 is due on **Monday, April 6 at 11:59 PM**.  
 
 ---
 
@@ -154,6 +154,6 @@ Working in groups, revise and strengthen your previous draft of the Durant corri
 
 ### Submission Deadline
 
-Assignment 5 is due on **Monday, April 20 at 11:59 AM (noon)**.  
+Assignment 5 is due on **Monday, April 20 at 11:59 PM**.  
 
 ---
