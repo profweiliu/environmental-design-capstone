@@ -23,7 +23,7 @@ By the end of the project, student teams will produce a set of integrated design
 - **Executive Summary** outlining project goals, design rationale, and key outcomes (200 words max.)
 - **Context Diagram** illustrating how the study area connects to adjacent neighborhoods and destinations
 - **Complete Street Master Plan** for 5th Avenue and 6th Avenue (sections on West Main Street and University Boulevard are included)
-- **Detailed Dimensional Perspective Section Drawings** for each complete street typology proposed in the plan
+- **Detailed Dimensional (Perspective) Section Drawings** for each complete street typology proposed in the plan
 - At least two "Before" images and corresponding proposed-condition **Renderings**
 - At least two **Enlarged Drawings** illustrating special street treatments (e.g., intersections, crossings, gateways, or curb extensions)
 
