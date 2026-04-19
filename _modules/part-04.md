@@ -29,6 +29,7 @@ Apr 20
 Apr 27
 : **Special Topic: Environmental Design in the AI Era & Design Progress** <br>
 : **ASSIGNMENT 6 DUE 11:59 PM**{: .label .label-red } <br>
+  : [Assignment Instruction]({{ site.baseurl }}/assignments/#assignment-6-AI-Assisted-Representation-Test) <br>
 *In this class, students will be introduced the state-of-the-art AI-enabled tools and emerging trends in environmental design. The course emphasizes how these technologies are shaping contemporary design practice, analysis, and decision-making. Students will also be encouraged to critically evaluate the opportunities and limitations of AI in environmental design contexts.* <br>
 : **REQUIRED**{: .readings .readings-required}[Cummings. (2025). How Might AI Affect Architects? A Yale Expert Weighs in](https://news.yale.edu/2025/04/23/how-might-ai-affect-architects-yale-expert-weighs){: .citation}  <br>
 **Optional**{: .readings .readings-optional }[Staniul. (2026). Best Midjourney Architecture Prompts (2026 Collection)](https://www.myarchitectai.com/blog/midjourney-architecture-prompts){: .citation}  <br>
@@ -36,12 +37,10 @@ Apr 27
 May 4
 : **Final Project Presentation** <br> 
 **Final Project Presentation DUE AT NOON**{: .label .label-red } <br> 
-*Time: 5 PM* <br> 
-*Location: Gould Hall 395* <br> 
+**Location & Time: Gould Hall 395, 5 PM**{: .label .label-red } <br> 
 
 May 11
 : **Final Project Submission** <br>
     <!--: [Project Submission Instruction]({{ site.baseurl }}/projects/#final-delivery)-->
 : **Final Project DUE 11:59 PM**{: .label .label-red } <br> 
 *Wei Liu is out for the Congress for the New Urbanism Annual Conference (May 13-16).* <br> 
-
