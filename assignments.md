@@ -157,3 +157,24 @@ Working in groups, revise and strengthen your previous draft of the Durant corri
 Assignment 5 is due on **Monday, April 20 at 11:59 PM**.  
 
 ---
+
+## Assignment 6 AI-Assisted Representation Test
+
+Using an AI image generation tool of your choice, develop at least two (2) visual representations of your project. 
+
+Each representation must be developed through a thread. A thread (or chat history) is the full sequence of interaction between you and the AI tool for the drawing. This includes:
+- Your initial prompt
+- All refined/revised prompts
+- The AI-generated images at each step
+- The iteration process
+
+### Submission Requirements
+A Word/PDF document that includes:
+- Prompt log
+- Process images
+- Final selected images
+- Short reflection on what worked/did not work and what you learned about using AI for representation
+
+### Submission Deadline
+
+Assignment 6 is due on **Monday, April 27 at 11:59 PM**.  
