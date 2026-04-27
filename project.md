@@ -91,4 +91,8 @@ DSC is partnering with another non-profit organization, Durant Trails and Open S
 [**Durant AARP Livability Index**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQA1-gkkoXFTTaWFZy-l74z6AS9xsq27eGBbURMuZcUHPsU?e=Qplzit) <br>
 [**Bronco Logistics Unlimited Business Plan**](https://sooners-my.sharepoint.com/:w:/g/personal/wliu_ou_edu/IQBFajuua1mLTK-29IMypYHQASVHLhrJxBsKNyrRVMup0AE?e=dffbU8) <br>
 [**Boys and Girls Club Site and Street Improvements**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCVoAhuWWpqTp0iub-qKFFLARjTELaKiSUubfK3NxvRHj4?e=kUKV7G) <br>
-[**Southeastern Oklahoma State University Campus Master Plan**](https://www.se.edu/campus-master-plan/) 
+[**Southeastern Oklahoma State University Campus Master Plan**](https://www.se.edu/campus-master-plan/) <br>
+[**Mark's Vision**](https://sooners-my.sharepoint.com/:b:/g/personal/wliu_ou_edu/IQCNmKi2jwIaQLW-ywE9K3BeAR7pDcnD9OFLRHpkUWDvCdk?e=mwddr9) <br>
+[**Site Visit Photos (Sept. 2025)**](https://sooners-my.sharepoint.com/:f:/g/personal/wliu_ou_edu/IgCV5RR_tyN8R6KGd9UXCjzAAYjKuIPZlfR6RAkLtFQOnzk?e=w1cAHc) <br>
+
+
